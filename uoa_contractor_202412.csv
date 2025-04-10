@@ -1,0 +1,845 @@
+YEAR_MONTH,COMMISSIONER_CODE,COMMISSIONER_NAME,CONTRACT_NUMBER,PROVIDER_NAME,UOA_FIN_VAL,UOA_PERF_TAR,UOA_DELIVERED,LATE_SUBMITTED_FP17,ORTHO_TRT_STARTED,ORTHO_TRT_COMPLETED
+202412,QPM,Northamptonshire ICB,1000410000,2:30 Ltd,61992.77,785,0,0,0,1
+202412,QJ2,Derby and Derbyshire ICB,1001500000,Brimington Dental Practice,48764.42,575,1,0,0,0
+202412,QPM,Northamptonshire ICB,1003390000,Oradi Ltd,141675.49,1768,241,0,11,0
+202412,QJ2,Derby and Derbyshire ICB,1004670000,Derby Raynesway Partnership,571188.22,7388,5,0,0,62
+202412,QOC,"Shropshire, Telford and Wrekin ICB",1004860000,New Park House Dental Centre,67159.12,839,0,0,0,0
+202412,QUA,Black Country ICB,1006220000,Dr Sudhakar Damodaraswamy,35692.21,450,2,0,0,0
+202412,QNX,Sussex ICB,1009180000,Neo Orthodontics Ltd,704341.27,10610,7,0,0,35
+202412,QKS,Kent And Medway ICB,1009190000,Neo Orthodontics Ltd,639815.39,9638,258,0,12,9
+202412,QNX,Sussex ICB,1009200000,Neo Orthodontics Ltd,616248.84,9283,281,0,14,15
+202412,QNX,Sussex ICB,1009210000,Neo Orthodontics Ltd,879065.71,13242,305,0,14,38
+202412,QNX,Sussex ICB,1009220000,Neo Orthodontics Ltd,842155.83,12686,13,0,0,30
+202412,QNX,Sussex ICB,1009230000,Neo Orthodontics Ltd,564535.18,8504,153,0,7,24
+202412,QXU,Surrey Heartlands ICB,1009240000,Neo Orthodontics Ltd,434487.61,6545,190,0,9,3
+202412,QKS,Kent And Medway ICB,1009250000,Neo Orthodontics Ltd,417028.45,6282,139,0,6,6
+202412,QKS,Kent And Medway ICB,1009260000,Neo Orthodontics Ltd,441590.78,6652,4,0,0,2
+202412,QXU,Surrey Heartlands ICB,1009280000,Neo Orthodontics Ltd,520123.83,7835,32,0,1,25
+202412,QKS,Kent And Medway ICB,1009310000,Portman Healthcare Limited,871697.01,13131,332,0,15,17
+202412,QXU,Surrey Heartlands ICB,1009320000,Portman Healthcare Limited,506979.67,7637,193,0,10,25
+202412,QNQ,Frimley ICB,1009330000,Portman Healthcare Limited,550395.25,8291,39,0,1,14
+202412,QKS,Kent And Medway ICB,1009340000,Portman Healthcare Limited,676858.03,10196,185,0,6,25
+202412,QNX,Sussex ICB,1009350000,MR AT SMITH,792960.21,11525,666,0,31,1
+202412,QKS,Kent And Medway ICB,1009360000,Portman Healthcare Limited,814340.69,12267,29,0,1,7
+202412,QNX,Sussex ICB,1009370000,Portman Healthcare Limited,472791.56,7122,65,0,3,11
+202412,QXU,Surrey Heartlands ICB,1009400000,Surrey Orthodontics Limited,576218.88,8680,422,0,18,29
+202412,QXU,Surrey Heartlands ICB,1009410000,IQ Orthodontics Ltd,636761.69,9592,110,0,3,19
+202412,QRL,Hampshire and Isle Of Wight ICB,1009670000,Orthodontics by Eva Winchester Ltd,863000.63,13000,584,0,25,23
+202412,QR1,Gloucestershire ICB,1009700000,Orthoworld 2000,347853.28,4884,21,0,1,11
+202412,QNQ,Frimley ICB,1009760000,The Orthodontic Centre (Reading) Ltd,711050.09,10712,172,0,8,26
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1009770000,The Orthodontic Centre (Reading) Ltd,1549282.04,23340,509,0,20,47
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1009780000,The Orthodontic Centre (Reading) Ltd,748222.24,11272,440,0,21,28
+202412,QNQ,Frimley ICB,1009790000,Ortho-Tek Limited,523596.26,7888,378,0,18,16
+202412,QNQ,Frimley ICB,1009810000,Maple Orthodontics Ltd,511249.8,7702,69,0,1,16
+202412,QRL,Hampshire and Isle Of Wight ICB,1010080000,ORTHODONTICA LIMITED,232346.32,3500,145,0,6,13
+202412,QRL,Hampshire and Isle Of Wight ICB,1010090000,Optimum Orthodontics Ltd,845465.31,12736,562,0,26,20
+202412,QRL,Hampshire and Isle Of Wight ICB,1010100000,Optimum Orthodontics Ltd,779820.63,11747,261,0,12,41
+202412,QRL,Hampshire and Isle Of Wight ICB,1010110000,Southampton Orthodontic Centre Ltd,763423.64,11500,339,0,16,75
+202412,QVV,Dorset ICB,1010300000,Poole Orthodontics Ltd,467397.44,6791,297,0,13,7
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1010320000,Newbury Orthodontics Limited,666841.79,10046,20,0,0,36
+202412,QRL,Hampshire and Isle Of Wight ICB,1010330000,Southampton Orthodontic Centre Ltd,829941.07,12502,189,0,9,32
+202412,QRL,Hampshire and Isle Of Wight ICB,1010370000,Whitecross Dental Care Limited,331632.81,4820,273,0,13,10
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1010380000,BUSBY HOUSE DENTAL CENTRE LTD,342116.53,5154,26,0,1,4
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1010390000,Impressions Orthodontics Ltd,566808.88,8539,419,0,19,3
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1010400000,Impressions Orthodontics Ltd,504280.01,7597,530,0,25,5
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1010410000,Impressions Orthodontics Ltd,504213.65,7596,543,0,23,7
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1010420000,Southwest Orthodontists Limited,374376.63,5640,272,0,12,13
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1010430000,Oxford Orthodontics Limited,537004.78,8090,546,0,26,21
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1010450000,Banbury Orthodontics Limited,377695.57,5690,10,0,0,21
+202412,QNQ,Frimley ICB,1010460000,OASIS DENTAL CARE LTD,414801.35,6249,1,0,0,11
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1010500000,Eastgate Orthodontics Limited,557566.71,8104,177,0,8,19
+202412,QR1,Gloucestershire ICB,1010510000,Cheltenham Orthodontics Ltd.,447475.46,6503,483,0,23,20
+202412,QR1,Gloucestershire ICB,1010520000,Cheltenham Orthodontics Ltd.,447399.56,6502,926,0,44,2
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",1010530000,Wells Orthodontic Limited,83641.92,1260,105,0,5,1
+202412,QXU,Surrey Heartlands ICB,1010620000,E & G Ortho Limited,1,0,0,0,0,0
+202412,QSL,Somerset ICB,1010790000,ORTHOWORLD 2000 LTD,418600.43,6084,607,0,26,4
+202412,QSL,Somerset ICB,1010800000,Wells Orthodontics Limited,716226.49,10409,819,0,39,29
+202412,QSL,Somerset ICB,1010810000,ORTHOWORLD 2000 LTD,694846.44,10099,430,0,19,6
+202412,QJK,Devon ICB,1010840000,Devon Square Orthodontics Ltd,679971.62,9324,148,0,6,32
+202412,QJK,Devon ICB,1010850000,Plymouth Orthodontics Ltd,877098.06,13212,1067,0,50,18
+202412,QJK,Devon ICB,1010860000,The Crescent Specialist Dental Centre,934544.02,13583,214,0,10,33
+202412,QT6,Cornwall and the Isles Of Scilly ICB,1010870000,River Practice Limited,535388.65,6882,105,0,5,0
+202412,QJK,Devon ICB,1010880000,Exeter Orthodontic Practice,1126016.6,16962,460.8,0,20,51
+202412,QJK,Devon ICB,1010890000,Exeter Orthodontic Practice,871564.22,13129,308,0,14,11
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1010900000,Portman Healthcare Limited,394622.19,5945,301,0,14,22
+202412,QJK,Devon ICB,1010910000,Ansa Usman Limited,756446.57,11395,482,0,21,20
+202412,QT6,Cornwall and the Isles Of Scilly ICB,1010920000,Portman Healthcare Limited,1436072.86,21633,831,0,39,36
+202412,QRL,Hampshire and Isle Of Wight ICB,1011030000,Hendrickse DH Ltd,431500.3,6500,12,0,0,44
+202412,QVV,Dorset ICB,1011060000,MRS KM ROWLAND,511127.08,7700,110,0,4,27
+202412,QRL,Hampshire and Isle Of Wight ICB,1011070000,Portman Healthcare Limited,431500.3,6500,92,0,5,15
+202412,QNQ,Frimley ICB,1011110000,Rebecca Sadler & Catherine Tannahill,863000.63,13000,189,0,6,38
+202412,QRL,Hampshire and Isle Of Wight ICB,1011170000,Gillian Johnson,378419.19,5500,198,0,7,1
+202412,QNQ,Frimley ICB,1011360000,Dentalcare Limited,511249.8,7702,329,0,14,20
+202412,QRL,Hampshire and Isle Of Wight ICB,1011520000,Orthodontics by Eva Winchester Ltd,1,0,0,0,0,0
+202412,QVV,Dorset ICB,1011570000,Poole Orthodontics Ltd,481624.42,7000,396,0,19,12
+202412,QRL,Hampshire and Isle Of Wight ICB,1011590000,Whitecross Dental Care Limited,1,0,0,0,0,0
+202412,QJK,Devon ICB,1011920007,Community Dental Centres Ltd,327469.68,4045,0,0,0,4
+202412,QNQ,Frimley ICB,1012080000,Farnborough Dental Centre Ltd,171547.22,2423,111,0,5,0
+202412,QMJ,North Central London ICB,1012770000,Shaunak Popat Orthodontists Ltd,1070508.97,15107,48,0,2,54
+202412,QMJ,North Central London ICB,1012790000,Shaunak Popat Orthodontists Ltd,1070508.97,15107,64,0,3,32
+202412,QMJ,North Central London ICB,1012800000,Sandip Haria Orthodontists Ltd,915329.84,12918,36,0,1,25
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1012810034,OASIS DENTAL CARE LTD,89858.22,1134,2,0,0,0
+202412,QKS,Kent And Medway ICB,1012810035,OASIS DENTAL CARE LTD,160930.05,2029,2,0,0,23
+202412,QJ2,Derby and Derbyshire ICB,1012810048,OASIS DENTAL CARE LTD,46251.9,628,0,0,0,0
+202412,QJM,Lincolnshire ICB,1012810077,OASIS DENTAL CARE LTD,258577.78,3186,23,0,1,3
+202412,QOP,Greater Manchester ICB,1012810088,OASIS DENTAL CARE LTD,688772.12,9328,454,0,21,6
+202412,QGH,Herefordshire and Worcestershire ICB,1012810093,OASIS DENTAL CARE LTD,1100231.71,13516,398,0,18,98
+202412,QKS,Kent And Medway ICB,1012810105,OASIS DENTAL CARE LTD,82090.98,1035,4,0,0,3
+202412,QOP,Greater Manchester ICB,1012810209,OASIS DENTAL CARE LTD,588165.24,7971,4,0,0,27
+202412,QKS,Kent And Medway ICB,1012810210,OASIS DENTAL CARE LTD,370456.18,4630,548,0,26,0
+202412,QMJ,North Central London ICB,1012820000,Sandip Haria Orthodontists Ltd,915329.84,12918,320,0,13,13
+202412,QMJ,North Central London ICB,1012830000,Hemant Patel Orthodontist Ltd,756138.75,10671,126,0,6,6
+202412,QMJ,North Central London ICB,1012840000,Hemant Patel Orthodontist Ltd,756138.75,10671,124,0,5,3
+202412,QRV,North West London ICB,1012850000,Hemant Patel Orthodontist Ltd,1427648.08,20148,63,0,3,17
+202412,QMJ,North Central London ICB,1012860000,Azam Al Asady Orthodontists Limited,965592.74,13627,408,0,17,48
+202412,QMF,North East London ICB,1012870000,Rehana Yaqoob Orthodontists Ltd,1336281.63,18858,155,0,4,28
+202412,QRV,North West London ICB,1012880000,Smile Radiance Limited,838118.74,11828,7,0,0,35
+202412,QMJ,North Central London ICB,1012890000,Malmin Orthodontic Group Ltd,1106010.94,15609,634,0,28,177
+202412,QMF,North East London ICB,1012900000,Malmin Orthodontic Group Ltd,916114.75,12832,269,0,12,62
+202412,QMF,North East London ICB,1012910000,Malmin Orthodontic Group Ltd,909274.06,12832,458,0,20,59
+202412,QMF,North East London ICB,1012920000,Barbican Orthodontic Ltd,692023.27,9766,6,0,0,52
+202412,QKK,South East London ICB,1012930000,Simply Orthodontics Ltd,953783.99,13460,404,0,17,74
+202412,QRV,North West London ICB,1012940000,SJW Orthodontics Ltd,1059154.39,14947,293,0,13,7
+202412,QWE,South West London ICB,1012950000,Battersea Orthodontics Limited,996098.69,14057,177,0,8,14
+202412,QKK,South East London ICB,1012960000,Syed Kalimullah Sadiq,747736.36,10552,42,0,2,37
+202412,QKK,South East London ICB,1012970000,Syed Kalimullah Sadiq,747736.36,10552,21,0,1,28
+202412,QMF,North East London ICB,1013000000,Dr Yousif Daniel,692023.27,9766,63,0,3,26
+202412,QMF,North East London ICB,1013010000,Align & Smile Ltd,1112975.06,15707,1474,0,71,78
+202412,QRV,North West London ICB,1013020000,Amit Rai,838118.74,11828,526,0,25,0
+202412,QMF,North East London ICB,1013030000,Chadwell Heath Orthodontics Ltd,1137425.24,16049,1239,0,59,18
+202412,QMF,North East London ICB,1013040000,Newham Family Dental Care Ltd,1381170.04,19492,966,0,45,69
+202412,QRV,North West London ICB,1013050000,Ealing Dental Specialists Limited,1438094.28,20295,64,0,1,60
+202412,QRV,North West London ICB,1013060000,Knightsbridge Orthodontics Limited,745995.33,10528,369,0,17,23
+202412,QKK,South East London ICB,1013070000,Orthodontic Suites Limited,1435293.5,20255,563,0,22,15
+202412,QWE,South West London ICB,1013080000,Richmond Hill Orthodontics Limited,1078684.26,15223,168,0,8,44
+202412,QWE,South West London ICB,1013090000,BIP Dental Ltd,1080425.29,15247,511,0,21,24
+202412,QWE,South West London ICB,1013100000,Sutton Orthodontics Limited,1171943.15,16539,428,0,20,44
+202412,QRV,North West London ICB,1013310000,Soho Orthodontics Ltd,925851.75,13066,212,0,8,20
+202412,QKK,South East London ICB,1013350000,Namta Limited,1441879.14,20348,217,0,9,41
+202412,QWE,South West London ICB,1013370000,BIP Dental Ltd,904429.45,12764,146,0,8,2
+202412,QF7,South Yorkshire ICB,1013380069,Whitecross Dental Care Limited,112121.97,1512,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1013380083,Whitecross Dental Care Limited,138715.53,1749,1,0,0,0
+202412,QWE,South West London ICB,1013550000,MISS K BORHAN,14895,0,0,0,0,0
+202412,QRV,North West London ICB,1013590000,Orthodontic Care Limited,1373751.72,19387,150,0,6,44
+202412,QRL,Hampshire and Isle Of Wight ICB,1013600000,Whitecross Dental Care Limited,1,0,0,0,0,0
+202412,QSL,Somerset ICB,1013620045,Rodericks Dental Partners Limited,78917.28,1049,0,0,0,0
+202412,QF7,South Yorkshire ICB,1013700005,Petrie Tucker & Partners Ltd,76249.93,945,0,0,0,0
+202412,QJM,Lincolnshire ICB,1013700033,Petrie Tucker & Partners Ltd,366350.86,4510,0,0,0,2
+202412,QT1,Nottingham and Nottinghamshire ICB,1013700039,Petrie Tucker & Partners Ltd,1211342.31,14868,395,0,18,21
+202412,QRV,North West London ICB,1013700045,Petrie Tucker & Partners Ltd,125967.34,1598,22,0,1,0
+202412,QUA,Black Country ICB,1013700096,Petrie Tucker & Partners Ltd,51071.16,644,0,0,0,3
+202412,QJG,Suffolk and North East Essex ICB,1013700098,Du Toit and BurgerPartnership Ltd (Harwich),98118.56,1265,257,0,12,0
+202412,QMJ,North Central London ICB,1013700143,Petrie Tucker & Partners Ltd,110342.93,1381,42,0,2,0
+202412,QRV,North West London ICB,1013750000,Southwest Orthodontists Ltd,765600.88,10804,390,0,18,16
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1013770000,PCORTHO Ltd,663198.86,9991,174,0,5,15
+202412,QHM,North East and North Cumbria ICB,1013830000,Queensway Orthodontics (North) Limited,518944.6,8000,124,0,5,23
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1013970000,Creating Smiles Limited,523595.42,8104,51,0,1,26
+202412,QRV,North West London ICB,1014000000,Ealing Dental Specialists Limited,925851.75,13066,168,0,6,24
+202412,QWE,South West London ICB,1014030000,MR RP BATEMAN,320568.84,3951,207,0,9,17
+202412,QE1,Lancashire and South Cumbria ICB,1014040000,Malmin Orthodontic Group Ltd,778416.91,12000,164,0,7,19
+202412,QRL,Hampshire and Isle Of Wight ICB,1014060000,Orthodontics By Eva Petersfield & Alton Ltd,543425.41,7000,161,0,7,13
+202412,QKK,South East London ICB,1014300000,Chapel Road Orthodontics Limited,1431130.15,20197,517,0,23,37
+202412,QKK,South East London ICB,1014310000,Oasis Dental Care Limited,953783.99,13460,337,0,16,52
+202412,QKK,South East London ICB,1014320000,Oasis Dental Care Limited,771505.25,10888,1305,0,58,18
+202412,QKK,South East London ICB,1014330000,Portman Healthcare Ltd,771505.25,10888,13,0,0,24
+202412,QT1,Nottingham and Nottinghamshire ICB,1014350064,IDH Limited,112808.01,1392,74,0,2,0
+202412,QJG,Suffolk and North East Essex ICB,1014350114,IDH Limited,75812.84,1100,0,0,0,0
+202412,QRL,Hampshire and Isle Of Wight ICB,1014410000,Beth Richardson Orthodontics Ltd,727115.29,10568,324,0,15,12
+202412,QR1,Gloucestershire ICB,1014420000,Whitecross Dental Care Limited,80550.22,1015,0,0,0,2
+202412,QOQ,Humber and North Yorkshire ICB,1015120000,Smile Orthodontics Holdings Limited,753641.42,11618,720,0,32,15
+202412,QOQ,Humber and North Yorkshire ICB,1015130000,Orthokind Limited,807676.81,12451,106,0,5,21
+202412,QOQ,Humber and North Yorkshire ICB,1015140000,Haricovert Limited,505973.75,7800,441,0,21,12
+202412,QOQ,Humber and North Yorkshire ICB,1015150000,Alpha Windmill (Bedale) Ltd,669896.27,10327,221,0,9,4
+202412,QHM,North East and North Cumbria ICB,1015200000,Smileville Orthodontics Limited,733009.61,11300,431,0,18,28
+202412,QE1,Lancashire and South Cumbria ICB,1015290000,Central Orthodontics Limited,583812.95,9000,105,0,5,25
+202412,QE1,Lancashire and South Cumbria ICB,1015300000,KDPG Limited,518944.6,8000,158,0,7,6
+202412,QE1,Lancashire and South Cumbria ICB,1015310000,Expert Orthodontics Limited,324340.65,5000,37,0,1,0
+202412,QE1,Lancashire and South Cumbria ICB,1015340000,Whitecross Dental Care Limited,324340.65,5000,63,0,3,10
+202412,QH8,Mid and South Essex ICB,1015590001,R Patel & Associates,435021.24,5850,3,0,0,5
+202412,QHM,North East and North Cumbria ICB,1015830000,Queensway Orthodontics (East) Limited,648681.31,10000,145,0,6,25
+202412,QHM,North East and North Cumbria ICB,1015840000,Queensway Orthodontics (West) Limited,583812.95,9000,358,0,16,30
+202412,QHM,North East and North Cumbria ICB,1016290000,OASIS DENTAL CARE LTD,733009.61,11300,503,0,23,28
+202412,QUE,Cambridgeshire and Peterborough ICB,1016410000,Campbell Orthodontics,487863.31,6595,214,0,9,25
+202412,QYG,Cheshire and Merseyside ICB,1017540000,Embrace Orthodontics Limited,437859.78,6750,101,0,4,15
+202412,QOQ,Humber and North Yorkshire ICB,1017680000,Oasis Dental Care Ltd ta Total Orthodontics Harrogate,803200.89,12382,353,0,16,21
+202412,QHM,North East and North Cumbria ICB,1017830000,Queensway Orthodontics (East) Limited - Transfer Cases,1.1,1,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1017840000,Queensway Orthodontics (North) Limited - Transfer Cases,1.1,1,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1017850000,Queensway Orthodontics (West) Limited - Transfer Cases,1.1,1,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1018180000,Falchion Orthodontics Ltd,946170.36,14562,361,0,16,24
+202412,QHM,North East and North Cumbria ICB,1019670000,MR MG STEDMAN,1,1,0,0,0,0
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",1020460000,Dentalcare Swindon Ltd,134073.58,1652,3,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,1022950000,"St Paul's Orthodontics Limited",743513.91,11500,456,0,21,30
+202412,QXU,Surrey Heartlands ICB,1022960001,Mr Richard Williams and Miss Faiza Darugar,1,0,0,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,1022970000,"St Raphael's Orthodontics Limited",743513.91,11500,37,0,1,15
+202412,QE1,Lancashire and South Cumbria ICB,1022980000,Expert Orthodontics Limited,614207.14,9500,86,0,4,4
+202412,QE1,Lancashire and South Cumbria ICB,1022990000,Orthoworld 2000 Limited,347571.75,5358,0,0,0,3
+202412,QE1,Lancashire and South Cumbria ICB,1023000000,Orthoworld 2000 Limited,716553.8,11046,823,0,38,28
+202412,QE1,Lancashire and South Cumbria ICB,1023010000,Lancashire Orthodontics Limited,484900.38,7500,21,0,1,0
+202412,QE1,Lancashire and South Cumbria ICB,1023030000,Perfectalign Limited,486395.27,7500,361,0,17,6
+202412,QRL,Hampshire and Isle Of Wight ICB,1023170000,Optimum Orthodontics Ltd,1,0,0,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,1023780000,KDPG Limited,324350,5000,94,0,4,6
+202412,QJM,Lincolnshire ICB,1023880000,Mr N Maxey,1,0,0,0,0,0
+202412,QYG,Cheshire and Merseyside ICB,1024130000,Embrace Orthodontics Limited,986422.17,15210,290,0,13,80
+202412,QYG,Cheshire and Merseyside ICB,1024250000,AMK Orthodontics Limited,729602,11250,114,0,2,0
+202412,QHM,North East and North Cumbria ICB,1024260000,NEO Orthodontics North East Ltd,1031372.5,15900,663,0,31,30
+202412,QYG,Cheshire and Merseyside ICB,1024270000,AMK Orthodontics Limited,986422,15210,145,0,1,0
+202412,QYG,Cheshire and Merseyside ICB,1024280000,AMK Orthodontics Limited,776795.25,11250,82,0,0,0
+202412,QYG,Cheshire and Merseyside ICB,1024290000,"St Paul's Orthodontics Limited",466537.37,6750,570,0,26,9
+202412,QHM,North East and North Cumbria ICB,1024300000,NEO Orthodontics North East Ltd,1.1,1,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1024320000,NEO Orthodontics North East Ltd,1,1,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1024330000,Windmill (Heaton) Orthodontics Ltd,681095.07,10500,0,0,0,36
+202412,QHM,North East and North Cumbria ICB,1024340000,Windmill (Heaton) Orthodontics Ltd,1,1,0,0,0,3
+202412,QHM,North East and North Cumbria ICB,1024350000,Windmill (Heaton) Orthodontics Ltd,1,1,0,0,0,0
+202412,QF7,South Yorkshire ICB,1024420000,Orthodontic Centre (UK) Ltd,1444859.33,22275,652,0,31,24
+202412,QOQ,Humber and North Yorkshire ICB,1024440000,Orthodontic Centre (UK) Limited Company,764534.52,11820,0,0,0,62
+202412,QF7,South Yorkshire ICB,1024460000,Orthodontic Centre (UK) Limited,1121444.35,17289,1403,0,65,14
+202412,QOQ,Humber and North Yorkshire ICB,1024470000,Orthocentres Limited,834585.43,12911,470,0,23,0
+202412,QOQ,Humber and North Yorkshire ICB,1024480000,Orthocentres Limited,834585.43,12911,947,0,42,7
+202412,QHM,North East and North Cumbria ICB,1024780000,Queensway Orthodontics (South) Ltd,1056250.67,16300,469,0,21,12
+202412,QHM,North East and North Cumbria ICB,1024800000,Queensway Orthodontics (South) Ltd,1.1,1,0,0,0,34
+202412,QHM,North East and North Cumbria ICB,1024850000,South Tyneside Orthodontic Centre Ltd,512442.96,7900,722,0,34,18
+202412,QHM,North East and North Cumbria ICB,1024860000,NEO Orthodontics North East Ltd,1167591.56,18000,590,0,25,34
+202412,QHM,North East and North Cumbria ICB,1024880000,NEO Orthodontics North East Ltd,1.1,1,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1024910000,Malmin Orthodontic Group Ltd,549524.8,8500,257,0,11,1
+202412,QHM,North East and North Cumbria ICB,1024920000,SRDP,1,1,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1024930000,Mr I Gordon & Mr B Wild (trading as Indental Orthodontics),694068.32,10700,87,0,0,7
+202412,QHM,North East and North Cumbria ICB,1024940000,Ms J Charlton T/A Cleveland Orthodontics,694068.31,10700,58,0,2,39
+202412,QHM,North East and North Cumbria ICB,1024950000,Mr I Gordon & Mr B Wild (trading as Indental Orthodontics),1.1,1,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1024960000,Mr I Gordon & Mr B Wild (trading as Indental Orthodontics),1,1,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1024970000,Wearside Orthodontic Centre Ltd,1037859.01,16000,1336,0,64,34
+202412,QHM,North East and North Cumbria ICB,1024980000,Ms J Charlton T/A Cleveland Orthodontics,8027.75,2,0,0,0,8
+202412,QHM,North East and North Cumbria ICB,1024990000,Wearside Orthodontic Centre Ltd,1027.1,2,0,0,0,6
+202412,QHM,North East and North Cumbria ICB,1025000000,NEO Orthodontics North East Ltd,1,1,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1025010000,Windmill (Heaton) Orthodontics Ltd,869207,13400,122,0,2,53
+202412,QHM,North East and North Cumbria ICB,1025020000,Windmill (Heaton) Orthodontics Ltd,1,1,0,0,0,2
+202412,QHM,North East and North Cumbria ICB,1025060000,Mr T Puttick & Mrs M Puttick,2301,1,0,0,0,0
+202412,QWO,West Yorkshire ICB,1025070000,Haricovert Limited,1124737.9,17558,449,0,21,14
+202412,QWO,West Yorkshire ICB,1025080000,Haricovert Limited,1124737.9,17558,254,0,12,0
+202412,QF7,South Yorkshire ICB,1025090000,1OSD LTD,1105208.11,17289,210,0,10,42
+202412,QWO,West Yorkshire ICB,1025100000,Portman Healthcare Limited,1027432.9,16058,680,0,30,19
+202412,QWO,West Yorkshire ICB,1025110000,1OSD LTD,1355228.81,21159,907,0,43,18
+202412,QWO,West Yorkshire ICB,1025130000,The Brace Place (Yorkshire) Limited,502668.18,7760,250,0,12,15
+202412,QT1,Nottingham and Nottinghamshire ICB,1025140000,Haricovert Limited,528130.37,8380,0,0,0,9
+202412,QF7,South Yorkshire ICB,1025150000,Haricovert Limited,1478983.93,23158,1776,0,87,0
+202412,QF7,South Yorkshire ICB,1025160000,Orthocentres Ltd,971421.68,14976,1144,0,54,26
+202412,QWO,West Yorkshire ICB,1025170000,Taheri Limited,1084213.95,17150,146,0,6,9
+202412,QWO,West Yorkshire ICB,1025180000,OASIS DENTAL CARE LTD,1017061.5,15946,1004,0,47,10
+202412,QOQ,Humber and North Yorkshire ICB,1025190000,OASIS DENTAL CARE LTD,1251748.84,19363,955,0,42,41
+202412,QRL,Hampshire and Isle Of Wight ICB,1025240000,Optimum Orthodontics Ltd,1,0,0,0,0,0
+202412,QRL,Hampshire and Isle Of Wight ICB,1025250000,Southampton Orthodontic Centre Ltd,1,0,0,0,0,0
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1025460000,Berkshire Healthcare NHS Foundation Trust,1,300,0,0,0,0
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1025590000,Oxford Health NHS Foundation Trust,1.1,3200,22,0,1,2
+202412,QJG,Suffolk and North East Essex ICB,1025670000,Colchester Smiles,916861.7,8691,169,0,8,0
+202412,QYG,Cheshire and Merseyside ICB,1025700000,West House Orthodontics Limited,1147226.81,15750,108,0,4,68
+202412,QYG,Cheshire and Merseyside ICB,1025720000,Wirral Ortho Limited,799036.78,12375,915,0,40,35
+202412,QF7,South Yorkshire ICB,1025730000,MR MG HEANUE,856226.55,13526,402,0,17,0
+202412,QYG,Cheshire and Merseyside ICB,1025890000,Overleigh Orthodontics Limited,1063225.81,15210,861,0,40,33
+202412,QWO,West Yorkshire ICB,1026020000,Taheri Limited,12649.39,1,0,0,0,0
+202412,QWO,West Yorkshire ICB,1026170000,NSS Properties Ltd,267802,0,0,0,0,4
+202412,QF7,South Yorkshire ICB,1026190000,The Forum Practice Ltd,6389.18,2,0,0,0,0
+202412,QOQ,Humber and North Yorkshire ICB,1026200000,Haricovert Limited,6769.91,2,0,0,0,0
+202412,QOQ,Humber and North Yorkshire ICB,1026220000,Quantum Ortho Limited,10146.11,2,0,0,0,0
+202412,QWO,West Yorkshire ICB,1026240000,Whitecross Dental Care Limited,15359.28,2,0,0,0,1
+202412,QOQ,Humber and North Yorkshire ICB,1026250000,Smile Lincs Ltd,2980,2,0,0,0,3
+202412,QF7,South Yorkshire ICB,1026260000,MR MG HEANUE,1,1,0,0,0,24
+202412,QWO,West Yorkshire ICB,1026290000,MR DF SCHUTH,2599.31,2,0,0,0,0
+202412,QWO,West Yorkshire ICB,1026300000,Haricovert Limited,47882.61,2,0,0,0,0
+202412,QWO,West Yorkshire ICB,1026310000,St Michaels Orthodontics Ltd,6008.61,2,0,0,0,21
+202412,QE1,Lancashire and South Cumbria ICB,1026320000,Expert Orthodontics Limited,2117.54,0,0,0,0,0
+202412,QWO,West Yorkshire ICB,1026380000,Portman Healthcare Limited,15160.68,2,0,0,0,0
+202412,QWO,West Yorkshire ICB,1026390000,Haricovert Limited,13571.88,2,0,0,0,0
+202412,QOQ,Humber and North Yorkshire ICB,1026400000,Oasis Dental Care Ltd ta Total Orthodontics Harrogate,1,1,0,0,0,0
+202412,QWO,West Yorkshire ICB,1026410000,1OSD LTD,7746.28,2,0,0,0,0
+202412,QF7,South Yorkshire ICB,1026430000,Orthocentres Ltd,971421.68,14976,1125,0,54,23
+202412,QF7,South Yorkshire ICB,1026450000,Orthodontic Centre (UK) Limited,1,1,0,0,0,2
+202412,QOQ,Humber and North Yorkshire ICB,1026460000,Orthodontic Centre (UK) Limited Company,766673.22,11820,188,0,9,37
+202412,QOQ,Humber and North Yorkshire ICB,1026470000,Orthodontic Centre (UK) Limited Company,1,1,0,0,0,4
+202412,QOQ,Humber and North Yorkshire ICB,1026540000,The Forum Practice Ltd,77288.5,3,0,0,0,0
+202412,QF7,South Yorkshire ICB,1026710000,Haricovert Limited,1,1,0,0,0,0
+202412,QWO,West Yorkshire ICB,1026740000,NSS Properties Ltd,478659.68,7544,670,0,30,15
+202412,QWO,West Yorkshire ICB,1026790000,NSS Properties Ltd,1,0,0,0,0,0
+202412,QF7,South Yorkshire ICB,1026810000,Orthocentres Ltd,1,1,0,0,0,0
+202412,QWO,West Yorkshire ICB,1026880000,Haricovert Limited,19115.86,2,0,0,0,0
+202412,QF7,South Yorkshire ICB,1027210000,Haricovert Limited,36046.78,2,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,1027260000,MR RD SLATER,46766,0,0,0,0,0
+202412,QUA,Black Country ICB,1027270000,DR JF ALLSOPP,1,0,0,0,0,30
+202412,QHL,Birmingham and Solihull ICB,1027280000,HC 1287 Ltd,31244,0,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1027690000,Queensway Orthodontics (South) Ltd,340548.54,251,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1028200000,Queensway Orthodontics (West) Limited,276533.78,204,168,0,8,0
+202412,QHM,North East and North Cumbria ICB,1028210000,Queensway Orthodontics (North) Limited,355543.14,262,401,0,19,0
+202412,QHM,North East and North Cumbria ICB,1028230000,Queensway Orthodontics (East) Limited,1,1,105,0,5,0
+202412,QHM,North East and North Cumbria ICB,1028250000,South Tyneside Orthodontic Centre Ltd,136220.01,101,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1028280000,OASIS DENTAL CARE LTD,1,1,63,0,3,0
+202412,QHM,North East and North Cumbria ICB,1028290000,NEO Orthodontics North East Ltd,546239.25,402,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1028320000,Windmill (Heaton) Orthodontics Ltd,544877.06,401,1808,0,86,0
+202412,QHM,North East and North Cumbria ICB,1028330000,Windmill (Heaton) Orthodontics Ltd,544877.06,401,3255,0,155,2
+202412,QHM,North East and North Cumbria ICB,1028340000,Mr I Gordon & Mr B Wild (trading as Indental Orthodontics),408670.13,301,1117,0,53,0
+202412,QHM,North East and North Cumbria ICB,1028350000,Malmin Orthodontic Group Ltd,354180.91,261,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1028360000,Ms J Charlton and Mr N Huntley T/A Cleveland Orthodontics,517633.26,7981,592,0,28,0
+202412,QOP,Greater Manchester ICB,1029030001,"Chandy, Whittingham & Casserley",93741.07,1111,66,0,3,0
+202412,QRL,Hampshire and Isle Of Wight ICB,1029380001,Milford Dental Practice Partnership,187680.79,2368,24,0,1,13
+202412,QJM,Lincolnshire ICB,1030290000,The Forum Practice Ltd,124666.29,0,0,0,0,0
+202412,QF7,South Yorkshire ICB,1030610000,Orthoscene Limited,1,1,0,0,0,0
+202412,QUA,Black Country ICB,1030690000,Black Country Orthodontics Ltd,1,0,1,0,0,2
+202412,QUA,Black Country ICB,1030700000,Braces and Faces Dental Centre,1,0,0,0,0,1
+202412,QUA,Black Country ICB,1030720000,"Mrs T Malapati, First Dental",1,0,0,0,0,0
+202412,QUA,Black Country ICB,1030730000,Hayers Dental Surgery,1,0,0,0,0,0
+202412,QUA,Black Country ICB,1030740000,MR E ACHEAMPONG,1,0,0,0,0,0
+202412,QUA,Black Country ICB,1030950000,MRS N SHOJA-ASSADI,1,0,0,0,0,0
+202412,QUA,Black Country ICB,1031110000,Dr Rajesh Kumar Beedh,1,0,0,0,0,6
+202412,QOQ,Humber and North Yorkshire ICB,1031350000,Mr M Heanue (NLAG Ortho Patients),1424.3,2,0,0,0,0
+202412,QRL,Hampshire and Isle Of Wight ICB,1031770000,Smile Care Eastleigh Ltd,637239.19,10000,63,0,3,9
+202412,QSL,Somerset ICB,1031830000,Rodericks Dental Partners Limited,797339.54,12011,819,0,39,59
+202412,QRL,Hampshire and Isle Of Wight ICB,1031860000,Smile Care Eastleigh Ltd,152723.4,0,0,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,1031890000,Expert Orthodontics Limited,868136,0,0,0,0,0
+202412,QWO,West Yorkshire ICB,1031940000,Haricovert Limited,27109.34,1,0,0,0,0
+202412,QOQ,Humber and North Yorkshire ICB,1031960000,Smile Orthodontics Holdings Limited,1,1,0,0,0,0
+202412,QR1,Gloucestershire ICB,1032500000,Cirencester Orthodontics Limited,251982.92,3888,67,0,3,0
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1032730000,Oxford Orthodontics Ltd,57693.94,0,0,0,0,3
+202412,QHL,Birmingham and Solihull ICB,1032930000,HC 1287 Ltd,0.75,0,0,0,0,0
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1033230000,Oxford Orthodontics Practice Ltd,747406.09,12000,2,0,0,0
+202412,QUA,Black Country ICB,1033240000,Dr Rajesh Kumar Beedh,1,0,0,0,0,2
+202412,QUA,Black Country ICB,1033280000,MR R KUMAR,1,0,85,0,4,0
+202412,QUA,Black Country ICB,1033290000,MR E ACHEAMPONG,1,0,0,0,0,0
+202412,QUA,Black Country ICB,1033300000,Braces and Faces Dental Centre,1,0,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,1033310000,Mrs Jaspreet Kiran Kaur Pahal,1,0,0,0,0,2
+202412,QUA,Black Country ICB,1033320000,Hayers Dental Surgery,1,0,0,0,0,0
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1033510000,Oxford Orthodontics Ltd,254895.67,4000,388,0,18,3
+202412,QUY,"Bristol, North Somerset and South Gloucestershire ICB",1033930000,Yate Dental Limited (T/A Yate Dental Surgery),212107.95,2655,311,0,14,5
+202412,QOP,Greater Manchester ICB,1034520000,Mr P Serrant,1184149.7,16345,1193,0,55,44
+202412,QMM,Norfolk and Waveney ICB,1034730000,Acle Dental Surgery Ltd,70450.66,900,85,0,4,2
+202412,QMM,Norfolk and Waveney ICB,1035370000,Harleston Dental and Aesthetic Clinic Limited,31368.41,383,0,0,0,0
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",1035490000,Petrie Tucker & Partners Ltd,17763.4,2,0,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,1035610000,Expert Orthodontics Limited,635229.54,11520,343,0,15,59
+202412,QHL,Birmingham and Solihull ICB,1035770000,"Balbir S Bhandal, Amrik S Bhandal & Baljit S Bhandal",1,0,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,1035790000,Pinnacle Orthodontics Ltd,1,0,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,1035800000,Amblecote Dental Care,1,0,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,1035810000,Edgbaston Orthodontics Ltd,1,0,0,0,0,3
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,1035950000,Imperial Dental Partnership,47111.51,594,2,0,0,3
+202412,QT1,Nottingham and Nottinghamshire ICB,1036740000,Hucknall Dental Care,65840.62,885,133,0,6,0
+202412,QT1,Nottingham and Nottinghamshire ICB,1036780000,Church Street Partnership,30008.99,359,65,0,3,0
+202412,QHM,North East and North Cumbria ICB,1036800000,Ms J Charlton T/A Cleveland Orthodontics,352869.6,0,0,0,0,42
+202412,QHL,Birmingham and Solihull ICB,1036900000,Harmony Orthodontics Ltd,1,0,1,0,0,0
+202412,QHM,North East and North Cumbria ICB,1036910000,Ms J Charlton T/A Cleveland Orthodontics,19930.35,0,0,0,0,2
+202412,QHM,North East and North Cumbria ICB,1037230000,Malmin Orthodontic Group Ltd,529214.33,9600,701,0,33,0
+202412,QHM,North East and North Cumbria ICB,1037240000,Queensway Orthodontics (East) Limited,496138.43,9000,480,0,22,0
+202412,QHM,North East and North Cumbria ICB,1037250000,Queensway Orthodontics (East) Limited,469965.6,0,0,0,0,12
+202412,QJK,Devon ICB,1037330000,Jaswinder Singh Dhariwal,118974.08,1500,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,1037370000,Belwell Dental,4755,0,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1037470000,Market Place Egremont Partnership,0,0,0.8,0,0,0
+202412,QMM,Norfolk and Waveney ICB,1037480001,Friends Dental Ltd,144303.35,1800,21,0,1,2
+202412,QYG,Cheshire and Merseyside ICB,1038070000,Expert Orthodontics Limited,651134.25,11813,857,0,41,0
+202412,QYG,Cheshire and Merseyside ICB,1038080000,Expert Orthodontics Limited,651134.25,11813,491,0,23,0
+202412,QUA,Black Country ICB,1038370000,Black Country Orthodontics Ltd,43839,0,0,0,0,0
+202412,QUA,Black Country ICB,1038380000,Braces and Faces Dental Centre,75159,0,0,0,0,0
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",1039100000,Dentalcare Marlborough Limited,580647.71,9833,229,0,10,35
+202412,QGH,Herefordshire and Worcestershire ICB,1039260001,Aesthetic Dental Care Limited,869283.98,12066,1176,0,55,35
+202412,QE1,Lancashire and South Cumbria ICB,1039420000,Redbridge Associates Ltd.,115355,0,0,0,0,2
+202412,QUA,Black Country ICB,1040350000,MR JS NANDHRA,178534.44,0,0,0,0,0
+202412,QUA,Black Country ICB,1040360000,Black Country Orthodontics Ltd,107736.3,0,231,0,11,0
+202412,QUA,Black Country ICB,1040380000,MRS N SHOJA-ASSADI,23086.35,0,0,0,0,0
+202412,QUA,Black Country ICB,1040390000,Dr Rajesh Kumar Beedh,384772.5,0,371,0,17,0
+202412,QUA,Black Country ICB,1040400000,Braces and Faces Dental Centre,115431.75,0,126,0,6,0
+202412,QUA,Black Country ICB,1040410000,MR R KUMAR,46172.7,0,0,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,1040630000,Orthoworld 2000 Limited,0.67,0,0,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,1040640000,Orthoworld 2000 Limited,0.67,0,0,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,1040650000,Malmin Orthodontic Group Ltd,0.67,0,0,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,1040660000,"St Paul's Orthodontics Limited",0.67,0,23,0,1,0
+202412,QE1,Lancashire and South Cumbria ICB,1040670000,"St Raphael's Orthodontics Limited",0.67,0,0,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,1040680000,Expert Orthodontics Limited,0.67,0,0,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,1040690000,Expert Orthodontics Limited,0.67,0,0,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,1041050000,MR SL MORGAN,1,0,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1041300000,Queensway Orthodontics (East) Limited,98078.69,73,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1041310000,Wearside Orthodontic Centre Ltd,163463.82,121,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,1041330000,NEO Orthodontics North East Ltd,260179.32,192,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,1041340000,Edgbaston Orthodontics Ltd,43094.52,0,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,1041360000,Camila Pema Dhaya & Jatinder Kaur,61563.6,0,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,1041370000,Wylde Green Orthodontics LLP,192386.25,0,246,0,11,0
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",1041540000,Dentalcare West Swindon Ltd,362527.63,5461,85,0,2,9
+202412,QWO,West Yorkshire ICB,1041570000,NSS Properties Ltd,1450678.1,22364,0,0,0,0
+202412,QWO,West Yorkshire ICB,1041580000,NSS Properties Ltd,1648631.56,26156,739,0,32,16
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1042130001,Clearly Orthodontics Limited,60700.27,838,5,0,0,0
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1042130002,Clearly Orthodontics Limited,145962.16,0,232,0,11,0
+202412,QGH,Herefordshire and Worcestershire ICB,1043370001,Pinnacle Orthodontics Ltd,601372.78,7582,11,0,1,9
+202412,QOP,Greater Manchester ICB,1045070001,Heaton Mersey Orthondontic Centre,353352.01,1,0,0,0,4
+202412,QNX,Sussex ICB,1049300001,Total Orthodontics,524505.23,7901,37,0,2,18
+202412,QJG,Suffolk and North East Essex ICB,1051710001,Gentle Dental Practices Ltd,272208.3,3549,90,0,4,5
+202412,QSL,Somerset ICB,1060890001,Church Street Dental Practice Ltd,40859.67,508,0,0,0,0
+202412,QPM,Northamptonshire ICB,1061940003,Rodericks Dental Partners Limited,213916.02,2697,89,0,4,6
+202412,QJK,Devon ICB,1068280001,Mr Robert Mew,2141.14,27,1,0,0,0
+202412,QJG,Suffolk and North East Essex ICB,1069410001,Perfect Smile Clinic Limited,166206.79,2197,0,0,0,0
+202412,QOC,"Shropshire, Telford and Wrekin ICB",1072200001,Castle View House Dental Practice Partnership,48001.59,630,63,0,3,0
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",1075810003,"Sunita Naidoo, Rahendra Naidoo, Raahil Naidoo and Saroshen N",71622.13,903,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,1081620001,Gupta & Gupta,26725.13,337,1,0,0,0
+202412,QOP,Greater Manchester ICB,1083670001,Bell Lane Dental Practice,135390.62,1680,92,0,4,0
+202412,QMF,North East London ICB,1090610001,Davidoff Dental Partnership,100612.07,1420,51,0,1,3
+202412,QF7,South Yorkshire ICB,1099830001,Smile Create Ltd,128741.24,1575,44,0,2,0
+202412,QUA,Black Country ICB,1102720001,Purity,99145.05,1250,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,1103530001,Wylde Green Orthodontics LLP,715899.38,8811,54,0,1,23
+202412,QUA,Black Country ICB,1112870001,Black Country Orthodontics Ltd,271627.01,3483,1,0,0,13
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,1112950001,Modwena Orthodontics Limited,655498.82,10106,268,0,12,22
+202412,QJ2,Derby and Derbyshire ICB,1112950002,Modwena Orthodontics Limited,385143.67,5013,0,0,0,19
+202412,QJ2,Derby and Derbyshire ICB,1112950003,Modwena Orthodontics Limited,109327.54,1326,44,0,2,6
+202412,QUY,"Bristol, North Somerset and South Gloucestershire ICB",1113330001,Connor Hichens,18771.83,233,21,0,1,0
+202412,QT1,Nottingham and Nottinghamshire ICB,1123480001,Wright Dental Care Ltd,24171.66,300,0,0,0,0
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",1133870001,Hanlon & Gardner Dental Surgeons,86469.57,1100,25,0,1,0
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",1146770001,Salisbury Orthodontics Limited,506897.49,7686,295,0,13,30
+202412,QWU,Coventry and Warwickshire ICB,1149600001,Stratford Orthodontics Limited,1035380.37,12500,989,0,45,23
+202412,QH8,Mid and South Essex ICB,1153470001,Mr H.S. Kehlar and Mr S. Kumar,450754.46,6404,341,0,15,12
+202412,QKS,Kent And Medway ICB,1159240001,Aligndent NK Ltd,933044.1,13561,378,0,16,30
+202412,QT6,Cornwall and the Isles Of Scilly ICB,1161060001,Ward Dental Ltd,160344.99,1975,21,0,1,0
+202412,QUE,Cambridgeshire and Peterborough ICB,1164830001,Mr Wadhwani & Mr Hirani,487971.89,6425,15,0,0,14
+202412,QUE,Cambridgeshire and Peterborough ICB,1164830002,Mr Wadhwani & Mr Hirani,214557.04,2825,85,0,4,2
+202412,QRL,Hampshire and Isle Of Wight ICB,1167180001,St James Dental Partnership,78.61,1,0,0,0,0
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1172500002,Hallcross Dental Practices Limited,186657.45,2291,21,0,1,16
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1172500005,Hallcross Dental Practices Limited,347725.4,1,462,0,22,14
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1174120002,HS Virdee Ltd,22917.45,293,0,0,0,0
+202412,QWE,South West London ICB,1174710001,Summerstown Dental Centre Limited,17004.86,240,0,0,0,0
+202412,QJG,Suffolk and North East Essex ICB,1180360001,DU TOIT & BURGER PARTNERSHIP (IPSWICH) LTD,551114.55,7184,231,0,11,32
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1186800003,Mr P Sitlu & Mr I Bhyat,70607.03,895,86,0,4,4
+202412,QUY,"Bristol, North Somerset and South Gloucestershire ICB",1190750001,Christchurch Healthcare and Management Limited,51925.04,602,0,0,0,0
+202412,QPM,Northamptonshire ICB,1192020001,Orthostyle Limited,1039282.32,13103,224,0,10,41
+202412,QJG,Suffolk and North East Essex ICB,1192610001,Tiptree Dental Surgery,45917.93,592,4.8,0,0,0
+202412,QWE,South West London ICB,1196440001,Perfect Smile Associates Limited,283414.29,4000,187,0,8,0
+202412,QOC,"Shropshire, Telford and Wrekin ICB",1214950002,The Smileworks Ltd,69989.74,932,3,0,0,1
+202412,QOQ,Humber and North Yorkshire ICB,1215170002,Pure Dental Clinic,524748.11,7192,49,0,2,20
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1217890001,Rebecca Sadler & Catherine Tannahill,106366.45,1361,3,0,0,0
+202412,QUA,Black Country ICB,1220680001,"Jandu, Bhambra",42354.6,534,1,0,0,0
+202412,QUY,"Bristol, North Somerset and South Gloucestershire ICB",1221650001,Passage House Dental Care,67760.92,784,0,0,0,0
+202412,QUE,Cambridgeshire and Peterborough ICB,1225210001,Portman Healthcare,1092880.72,14951,902,0,33,31
+202412,QE1,Lancashire and South Cumbria ICB,1231880001,Cramond House Dental Practice,28183.27,340,0,0,0,1
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1232180001,Dayadent Limited,129499.78,1657,87,0,4,5
+202412,QUY,"Bristol, North Somerset and South Gloucestershire ICB",1234120001,Clifton Orthodontics Centre,491669.35,5938,354,0,16,24
+202412,QMM,Norfolk and Waveney ICB,1238890001,Graham Best Limited,249968,3400,0,0,0,14
+202412,QUA,Black Country ICB,1250080001,Briars Dental Practice,139834.18,1763,45,0,2,1
+202412,QOP,Greater Manchester ICB,1250400001,Red Rose Dental Group,447821.05,5533,387,0,18,18
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",1253850007,Dr Michael Frain Ltd,399296.9,5228,307,0,14,7
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",1260470002,Conation Partners Ltd,279422.47,3960,416,0,19,18
+202412,QJM,Lincolnshire ICB,1260710001,"Sadler, Tannahill & Davidson",106740.04,1318,7,0,0,0
+202412,QM7,Hertfordshire and West Essex ICB,1264620001,Hitchin Orthodontic Clinic Limited,1431495.91,18983,696,0,31,53
+202412,QOP,Greater Manchester ICB,1265350001,KML Orthodontics,218085.52,3065,0,0,0,0
+202412,QUA,Black Country ICB,1265430001,Amblecote Dental Care,134839.96,1699,2,0,0,5
+202412,QHM,North East and North Cumbria ICB,1266240001,The Killingworth Dental Practice Partnership,254043,2619,154,0,7,2
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1270780004,The Whitehouse Surgery Ltd,215876.16,0,48,0,2,4
+202412,QHM,North East and North Cumbria ICB,1278680001,Lambert Coutts & Associates Dental Practice Partnership,51631.7,651,1,0,0,6
+202412,QT1,Nottingham and Nottinghamshire ICB,1281980001,Regent Street Orthodontics Limited,513094.03,6308,51,0,2,13
+202412,QUY,"Bristol, North Somerset and South Gloucestershire ICB",1294960001,Smile Solutions Ltd,763507.1,9136,517,0,23,22
+202412,QSL,Somerset ICB,1296900001,Dulverton Dental Practice Ltd,37786.13,504,1,0,0,0
+202412,QH8,Mid and South Essex ICB,1307880001,Byles & Sebastian Orthodontic Practice,1445324.2,20792,352,0,13,1
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1307960004,JDRM Dental Care Ltd,117784.16,0,110,0,5,0
+202412,QHM,North East and North Cumbria ICB,1310910003,Malmin Healthcare Guisborough Partnership,32677.37,412,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,1313420001,Camila Pema Dhaya & Jatinder Kaur,86519.64,1091,22,0,1,1
+202412,QH8,Mid and South Essex ICB,1319030002,Penhaligon Witham Partnership,343777.01,4603,122,0,3,0
+202412,QUE,Cambridgeshire and Peterborough ICB,1323060001,Anglia Orthodontics,1557857.09,20512,502,0,24,45
+202412,QUE,Cambridgeshire and Peterborough ICB,1323060003,Anglia Orthodontics,100625.1,1,0,0,0,1
+202412,QOQ,Humber and North Yorkshire ICB,1326670001,Barton Dental Care Limited,41175.36,548,25,0,1,0
+202412,QKS,Kent And Medway ICB,1330350001,MCCANCE LTD.,871697.01,13131,997,0,47,34
+202412,QJG,Suffolk and North East Essex ICB,1335820001,Dr Horan & Dr Simkiene,300812.35,4054,250,0,11,0
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",1336200001,Cloudshill Limited,596034.68,7216,542,0,25,20
+202412,QE1,Lancashire and South Cumbria ICB,1343410001,The Macfarlane Dental Partnership,47048.19,618,0,0,0,0
+202412,QJM,Lincolnshire ICB,1345030001,Mr Haren and Mrs Sonal Patel,291373.15,3894,0,0,0,3
+202412,QJM,Lincolnshire ICB,1345030002,Mr Haren and Mrs Sonal Patel,266688.86,3885,6,0,0,6
+202412,QOC,"Shropshire, Telford and Wrekin ICB",1348640001,ARC Orthodontics Limited,533806.31,6517,20,0,3,13
+202412,QJ2,Derby and Derbyshire ICB,1353720001,No.1 The Orthodontic Specialists,281411.06,3438,43,0,0,14
+202412,QT6,Cornwall and the Isles Of Scilly ICB,1362120001,PCH Dental CIC,0,0,9,0,0,6
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1363360001,Gosal Orthodontics Limited,461914.02,6173,1,0,0,0
+202412,QOP,Greater Manchester ICB,1364330001,Links Associates Salford Ltd,887252.93,12025,303,0,14,8
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",1368400001,RUH Orthodontics,227419.71,2878,204,0,9,15
+202412,QE1,Lancashire and South Cumbria ICB,1371620001,Oakland Family Dental Practice,73363.31,877,44,0,2,1
+202412,QOP,Greater Manchester ICB,1375960001,Lotus Orthodontics,176998.79,2500,7,0,0,6
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1377660001,Mr B Patel & Mr R Jansari,69478.13,889,21,0,1,2
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",1381340001,Smile Creations Innovations Limited,347303.98,4694,17,0,0,9
+202412,QUA,Black Country ICB,1386570001,Coalway Road Dental Practice,43299.46,546,0,0,0,0
+202412,QM7,Hertfordshire and West Essex ICB,1391490001,Harpenden Orthodontic Care Limited,449146.52,5956,466,0,22,19
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1398740001,C M Desai Limited,21257.58,272,22,0,1,0
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,1399200001,Shelton Dental Centre,75977.52,937,0,0,0,0
+202412,QOC,"Shropshire, Telford and Wrekin ICB",1400150001,Shropshire Dental Limited,71139.8,981,1,0,0,0
+202412,QR1,Gloucestershire ICB,1401630001,Cheltenham Orthodontics Ltd.,447399.56,6502,442,0,20,13
+202412,QMF,North East London ICB,1402520001,Mrs S Talwar & Dr R Khera,187407.7,2645,74,0,3,0
+202412,QHL,Birmingham and Solihull ICB,1402600001,Walmley Dental Practice,62728.74,791,8,0,0,0
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,1403920001,Regency House Dental Practice Ltd,77253.45,1001,84,0,4,3
+202412,QKK,South East London ICB,1410970001,AR Smiles Dental Limited,48627.08,688,0,0,0,1
+202412,QJK,Devon ICB,1414610001,Queen Annes Dental Practice Limited,61122.79,770,21,0,1,0
+202412,QHM,North East and North Cumbria ICB,1415930001,J R P Jones and Associates Ltd,24244.27,300,2,0,0,0
+202412,QHM,North East and North Cumbria ICB,1418520001,Perfect Smile ( Acorn ) Partnership,38449.46,500,0,0,0,0
+202412,QGH,Herefordshire and Worcestershire ICB,1420340001,Evesham Orthodontics Limited,183560.64,2452,67,0,3,9
+202412,QUA,Black Country ICB,1421310004,New Road Dental Practice,36676.42,630,0,0,0,0
+202412,QWO,West Yorkshire ICB,1431700001,NL Practice Limited,271116.4,3730,135,0,6,1
+202412,QJM,Lincolnshire ICB,1434480001,Dr D J Duplessis & Ms Lieze Duplessis,23487.65,289,0,0,0,0
+202412,QOQ,Humber and North Yorkshire ICB,1434640001,The Dental Health Practice Ltd,46167.63,585,1,0,0,1
+202412,QWU,Coventry and Warwickshire ICB,1435020001,Light Lane Dental Practice,22915.08,290,0,0,0,0
+202412,QMF,North East London ICB,1436930002,Newham Family Dental Care Ltd,1.23,4781,182,0,8,4
+202412,QWO,West Yorkshire ICB,1438390001,LS10 Dental Care,51807.84,694,1,0,0,2
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1447460001,Sherwood House Dental Practice,24086.99,297,4,0,0,1
+202412,QT1,Nottingham and Nottinghamshire ICB,1449590001,Kaye and Rafferty Ltd,178876.13,2249,0,0,0,9
+202412,QH8,Mid and South Essex ICB,1453940002,Ongar Road Dental Practice,299174.76,4299,21,0,1,10
+202412,QWE,South West London ICB,1464980001,Croydon Orthodontics Ltd,2471917.54,29821,1807.8,0,79,60
+202412,QYG,Cheshire and Merseyside ICB,1466760001,Cheshire Cat Orthodontics Ltd,447312.71,1820,0,0,0,12
+202412,QNX,Sussex ICB,1468620001,Sackville Road Orthodontic Clinic,704341.27,10610,330,0,16,35
+202412,QM7,Hertfordshire and West Essex ICB,1474190001,Rickmansworth Orthodontic Practice Ltd,782467.15,10376,55,0,2,40
+202412,QJ2,Derby and Derbyshire ICB,1483690001,KH & GW Ltd,125798.19,1589,0,0,0,6
+202412,QM7,Hertfordshire and West Essex ICB,1484070001,Harpenden Orthodontics LLP,2066199.01,27721,974,0,45,76
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,1484230001,Kinver Dental and Implant Surgery,39753.97,506,67,0,3,3
+202412,QM7,Hertfordshire and West Essex ICB,1486950001,Mr   C  Wallis,954976.26,12145,820,0,38,35
+202412,QUA,Black Country ICB,1487330001,Morgan Dental,142530.92,1797,0,0,0,0
+202412,QMJ,North Central London ICB,1495780002,Dentasmile Ltd,169536.91,2137,58,0,2,1
+202412,QWU,Coventry and Warwickshire ICB,1503120001,Dorset House Dental,49623.03,628,23,0,1,0
+202412,QMF,North East London ICB,1505250002,The Nightingale Clinic,1796586.41,22214,155,0,7,33
+202412,QUA,Black Country ICB,1506650001,Shaw & Jandu Dental Practice,57336.1,723,23,0,1,0
+202412,QWO,West Yorkshire ICB,1512110001,"Milne, Spencer & Harris Dental Surgeons",27243.49,1070,66,0,3,3
+202412,QWO,West Yorkshire ICB,1512110002,"Milne, Spencer & Harris Dental Surgeons",32921.12,441,63,0,3,0
+202412,QJM,Lincolnshire ICB,1516530001,The Forum Practice Ltd,90263.79,1159,71,0,3,3
+202412,QVV,Dorset ICB,1519040001,Besher Al Aswad,976347.12,12309,737,0,33,66
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,1524550001,Stoke Orthodontic Services Limited,1271895.07,17205,501,0,23,37
+202412,QM7,Hertfordshire and West Essex ICB,1535590001,Borehamwood Ortho Clinic Limited,205481.96,2725,21,0,1,15
+202412,QMF,North East London ICB,1537100001,Inspire Dental Dagenham Ltd,1.23,2513,42,0,2,11
+202412,QH8,Mid and South Essex ICB,1538850001,Mr M. Kazemi and Dr S Dhillon,698810.56,10280,138,0,6,3
+202412,QJM,Lincolnshire ICB,1539310001,Mr J Wong & Mr P Butcher,42531.71,524,0,0,0,0
+202412,QXU,Surrey Heartlands ICB,1553490001,E & G Ortho Limited,518663.37,7813,347,0,18,13
+202412,QXU,Surrey Heartlands ICB,1553490002,E & G Ortho Limited,835849.31,12591,578,0,28,46
+202412,QOQ,Humber and North Yorkshire ICB,1553650002,Ishak Practices Ltd,56806.46,756,0,0,0,0
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",1554380003,Syteldent Ltd,52751.23,648,0,0,0,0
+202412,QUA,Black Country ICB,1558610001,P & A Bhandal,43933.91,554,21,0,1,0
+202412,QOP,Greater Manchester ICB,1559850002,SMAO Ltd T/A Northern Orthodontics,396194.1,5596,101,0,4,14
+202412,QNX,Sussex ICB,1565740004,Total Orthodontics,472791.56,7122,298,0,13,19
+202412,QR1,Gloucestershire ICB,1567010001,Phoenix Orthodontics,949264.07,14300,1132,0,52,34
+202412,QHM,North East and North Cumbria ICB,1574570001,Northumbria Dental Care Limited,33310.26,420,1,0,0,0
+202412,QJG,Suffolk and North East Essex ICB,1576350001,Friars Street Dental Ltd,185593.21,2355,67,0,3,6
+202412,QF7,South Yorkshire ICB,1577080001,Doncaster Dental Centre,52577.73,709,0,0,0,0
+202412,QUE,Cambridgeshire and Peterborough ICB,1578720001,St Marks Orthodontics,107529.02,1454,25,0,1,0
+202412,QOQ,Humber and North Yorkshire ICB,1584880001,Bedale Dental Practice Ltd,34788.66,463,0,0,0,2
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",1585420001,Mr CS Lambert-Rose,61746.55,767,25,0,2,2
+202412,QOP,Greater Manchester ICB,1593360001,Manchester Orthodontic Centre,391344.32,5500,236,0,11,13
+202412,QUY,"Bristol, North Somerset and South Gloucestershire ICB",1611360001,Straight & Bright Dental LTD,662418.9,7653,842,0,39,17
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1631390001,C O (Leicester) Limited,1028602.58,13746,663,0,31,39
+202412,QOQ,Humber and North Yorkshire ICB,1646900002,IDH 477 Limited,87271.4,1100,21,0,1,0
+202412,QJK,Devon ICB,1652980001,Plymouth Community Dental Services Limited,1.24,1980,0,0,0,0
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1661890001,Mr R Kidy & Ms P Sarna,335764.97,4137,67,0,1,15
+202412,QWE,South West London ICB,1666340001,Lancaster House Dental Practice,15097.6,224,0,0,0,0
+202412,QPM,Northamptonshire ICB,1669010002,Purely Orthodontics,801198.66,10707,24,0,1,8
+202412,QPM,Northamptonshire ICB,1670450001,QUALITY DENTAL CARE LIMITED,351799.98,4389,42,0,2,0
+202412,QYG,Cheshire and Merseyside ICB,1670880001,Wallasey Orthodontic Practice,37466.91,0,0,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,1677110001,Mr N Younis,49423.13,617,0,0,0,1
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",1682890001,Smiles Orthodontic Partnership,59239.86,780,1,0,0,1
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",1685130001,MHT Solutions Ltd,799252.81,9915,113,0,5,21
+202412,QJG,Suffolk and North East Essex ICB,1695010001,Orthoactive Ltd,213300.48,2954,130,0,6,19
+202412,QJ2,Derby and Derbyshire ICB,1695440001,"STEEPLE GRANGE SMILES LTD.,",55568.78,684,0,0,0,1
+202412,QHM,North East and North Cumbria ICB,1700110001,SRDP,101603.18,1281,408,0,19,0
+202412,QOQ,Humber and North Yorkshire ICB,1706900001,Church House Dental Practice,58179.42,897,0,0,0,4
+202412,QJ2,Derby and Derbyshire ICB,1707390001,Derby City Dental Care Partnership,34517.32,436,0,0,0,1
+202412,QGH,Herefordshire and Worcestershire ICB,1712120001,Castle Quay (Hereford) Limited,993881.34,12348,49,0,0,46
+202412,QMM,Norfolk and Waveney ICB,1712390001,The Loddon Dental Practice,46489.04,579,1,0,0,0
+202412,QMM,Norfolk and Waveney ICB,1712390002,The Loddon Dental Practice,367300.46,4936,683,0,31,6
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",1712470001,Sharing Smiles Orthodontics Ltd,1452324.51,19671,1405,0,66,36
+202412,QUA,Black Country ICB,1716540001,Kingswinford Health Centre 2,65039.17,820,0,0,0,1
+202412,QJM,Lincolnshire ICB,1717510001,E Gayton & K Gayton,20958.76,259,21,0,1,1
+202412,QE1,Lancashire and South Cumbria ICB,1718590004,Oak Dental Care Limited,84135.55,1000,0,0,0,0
+202412,QT1,Nottingham and Nottinghamshire ICB,1724640002,Charnwood Research Centre Limited  T/A East Midlands Orthodo,695507.16,8563,429,0,20,39
+202412,QMF,North East London ICB,1741220001,Phoenix Orthodontic Practice,901594.68,10864,336,0,16,0
+202412,QGH,Herefordshire and Worcestershire ICB,1744160001,Trinity Gate Ltd.,325226.08,4097,28,0,1,17
+202412,QOP,Greater Manchester ICB,1753660001,Links Associates Ashton Ltd,276118.11,3900,86,0,4,0
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1765910001,James Cooil and Associates Limited,51082.52,609,127,0,6,2
+202412,QHM,North East and North Cumbria ICB,1766480001,South Tyneside Smiles Limited,168061.67,2119,0,0,0,0
+202412,QMM,Norfolk and Waveney ICB,1767020001,Jeffrey Sherer and Larry Levin,56530.22,719,42,0,2,0
+202412,QUY,"Bristol, North Somerset and South Gloucestershire ICB",1767100001,Q Dental Care Limited,1509752.14,18219,1657,0,72,37
+202412,QUY,"Bristol, North Somerset and South Gloucestershire ICB",1767100003,Q Dental Care Limited,1950292.6,23747,1080,0,49,61
+202412,QUA,Black Country ICB,1767450001,Braces and Faces Dental Centre,162571.27,2050,63,0,3,3
+202412,QOQ,Humber and North Yorkshire ICB,1770320001,Orchard House Dental Care,11292.89,134,11,0,0,0
+202412,QJK,Devon ICB,1770910002,Highland Dental Care Ltd,77571.11,978,68,0,3,3
+202412,QT1,Nottingham and Nottinghamshire ICB,1772610001,Orthoworld,708414.74,8676,193,0,8,19
+202412,QE1,Lancashire and South Cumbria ICB,1777090001,Green Dental Partnership,3755.34,94,1,0,0,0
+202412,QJM,Lincolnshire ICB,1780550001,"Phakey, Phakey & Razaq",34899.05,430,2,0,0,0
+202412,QPM,Northamptonshire ICB,1781870001,Oradi Ltd.,72105.26,909,0,0,0,0
+202412,QJ2,Derby and Derbyshire ICB,1787640002,Smile by Design Limited,1446238.9,19288,694,0,31,69
+202412,QMM,Norfolk and Waveney ICB,1788610001,Smile Orthodontics,946530.12,13458,97,0,2,21
+202412,QWU,Coventry and Warwickshire ICB,1795310001,Jubilee Torcross Dental Partnership,8375.85,106,0,0,0,0
+202412,QWU,Coventry and Warwickshire ICB,1795310002,Jubilee Torcross Dental Partnership,20860.65,264,22,0,1,0
+202412,QRV,North West London ICB,1805050001,P&P Chiswick Limited,31954.96,451,0,0,0,0
+202412,QM7,Hertfordshire and West Essex ICB,1810800001,Watford Orthodontic Practice,575622.45,7633,28,0,0,17
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,1811100004,IDH Limited,221585.72,2792,70,0,3,0
+202412,QVV,Dorset ICB,1815950002,Mr D Tehrani Yeganeh,670409.38,8452,373,0,16,19
+202412,QJG,Suffolk and North East Essex ICB,1823970001,Bank Buildings Dental Practice,237133.47,3067,2,0,0,0
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",1825910001,Bath Orthodontics Ltd,720295.91,8863,361,0,16,16
+202412,QRV,North West London ICB,1826800001,Inspire Dental Southall Ltd,257907,3640,0,0,0,34
+202412,QJ2,Derby and Derbyshire ICB,1830670002,Refine Specialist Dental Care Limited,526194.7,7396,0,0,0,54
+202412,QNQ,Frimley ICB,1834820001,Surrey Orthodontics (Godalming) Limited,827551.22,12466,21,0,1,23
+202412,QVV,Dorset ICB,1835630001,Madeira Road Partnership,72152.86,1000,5,0,0,0
+202412,QT1,Nottingham and Nottinghamshire ICB,1838300001,KH & GW Ltd,83653.06,1020,24,0,1,0
+202412,QOP,Greater Manchester ICB,1845510001,Bamford Dental Practice,286027.64,3597,175,0,7,15
+202412,QHL,Birmingham and Solihull ICB,1849260001,Mrs Jaspreet Kiran Kaur Pahal,35202.43,451,0,0,0,3
+202412,QE1,Lancashire and South Cumbria ICB,1854500001,Lancashire Dental Partners,204639.5,2633,127,0,6,0
+202412,QE1,Lancashire and South Cumbria ICB,1854500002,Lancashire Dental Partners,466565.41,6069,88,0,2,12
+202412,QSL,Somerset ICB,1867160001,Parkfield Dental Surgery Ltd,20204.39,260,1,0,0,0
+202412,QHL,Birmingham and Solihull ICB,1868130001,The Smile Centre(Birmingham) Ltd,158.61,2,0,0,0,0
+202412,QUE,Cambridgeshire and Peterborough ICB,1868720002,ORTHOWORLD 2000 LTD,991704.59,12404,490,0,22,18
+202412,QPM,Northamptonshire ICB,1868720005,ORTHOWORLD 2000 LTD,592293.93,7225,70,0,3,13
+202412,QNX,Sussex ICB,1868720006,ORTHOWORLD 2000 LTD,962904.81,13995,472,0,22,29
+202412,QH8,Mid and South Essex ICB,1868720007,ORTHOWORLD 2000 LTD,689035.57,8763,188,0,9,28
+202412,QJM,Lincolnshire ICB,1872080001,Mr N Maxey & Mr W Welch,57224.38,705,42,0,2,0
+202412,QPM,Northamptonshire ICB,1874020003,Moopen Dental Care,230662.22,2926,0,0,0,4
+202412,QH8,Mid and South Essex ICB,1880180002,Messrs. Lee & Perera,235519.12,3044,0,0,0,9
+202412,QM7,Hertfordshire and West Essex ICB,1880930001,Inline Orthodontics,970674.03,12238,726,0,37,29
+202412,QH8,Mid and South Essex ICB,1881900002,Down Town Dental Clinic Limited,480295.13,6470,77,0,2,2
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,1882390001,Dr J S Jandu and Ms K K Bhambra,18802.3,274,0,0,0,0
+202412,QT1,Nottingham and Nottinghamshire ICB,1890810001,Mansfield Orthodontic Practice Ltd,1712936.62,20629,852,0,39,52
+202412,QOP,Greater Manchester ICB,1900630004,Denton Orthodontic Centre Ltd,299623.55,4232,3,0,0,8
+202412,QVV,Dorset ICB,1901950006,Xeon Smiles UK Ltd,1.05,0,0,0,0,0
+202412,QOP,Greater Manchester ICB,1904700007,G.k.A (1996) Ltd,206999.81,2541,64,0,3,0
+202412,QUA,Black Country ICB,1904890001,"Titley, Darby, Dehal and Associates",16257.11,205,0,0,0,1
+202412,QMJ,North Central London ICB,1907990001,Brecknock Dental Surgery Limited,131013.36,1614,105,0,5,0
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",1912210001,Mid Wessex Orthodontic Clinic,364746.44,4539,30,0,1,14
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",1921710001,Harborough Orthodontics,278570.16,0,132,0,6,0
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,1921980001,Mr Richard Cure & Mr Preshaan Sitlu,133710.29,1643,0,0,0,11
+202412,QPM,Northamptonshire ICB,1929610001,"Mr Roderick P Ingham, Mr Jose F Angelo and Mr Stephen W Cowl",331010.72,4500,179,0,8,0
+202412,QGH,Herefordshire and Worcestershire ICB,1931430002,Orthodontics for you (Bromsgrove) Limited,512857.84,6467,300,0,15,16
+202412,QJ2,Derby and Derbyshire ICB,1934370001,Risley Hill Dental,80672.36,1019,5,0,0,0
+202412,QOC,"Shropshire, Telford and Wrekin ICB",1939680001,Madeley Practice Ltd,870379.5,11508,142,0,6,20
+202412,QOC,"Shropshire, Telford and Wrekin ICB",1951700001,Station House Dental Practice (Telford) Ltd.,81503.12,1000,385,0,18,0
+202412,QYG,Cheshire and Merseyside ICB,1952940002,Deacon Dental Ltd,30688.5,0,0,0,0,0
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",1953320001,Oxford Orthodontics Ltd,127699.8,0,0,0,0,16
+202412,QKS,Kent And Medway ICB,1958200001,Aligndent Limited,2070749.87,25364,711,0,32,95
+202412,QM7,Hertfordshire and West Essex ICB,1963550001,Ortho-Tek Limited,142979.49,1911,21,0,1,4
+202412,QOC,"Shropshire, Telford and Wrekin ICB",1973510001,Exclusive Orthodontics Ltd,612128.5,7497,19,0,0,27
+202412,QOQ,Humber and North Yorkshire ICB,1975800001,Clock Tower Dental Care Limited,29904.73,398,1,0,0,0
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",1977260001,The Tomlinson Avenue Orthodontic Centre Ltd,201363.85,2937,150,0,7,8
+202412,QJG,Suffolk and North East Essex ICB,1983900001,Stewart House Orthodontics Limited,794429.85,8333,443,0,19,23
+202412,QE1,Lancashire and South Cumbria ICB,1984470001,Dentistry 4 All,81700.24,1000,0,0,0,2
+202412,QOC,"Shropshire, Telford and Wrekin ICB",1985950001,Khanna Dental Limited,22693.54,280,0,0,0,0
+202412,QWU,Coventry and Warwickshire ICB,1986410001,Coventry Orthodontics Limited,1355936.06,16512,339,0,16,16
+202412,QOP,Greater Manchester ICB,1988890002,Kings Dental Centre,233027.76,3274,21,0,1,6
+202412,QOP,Greater Manchester ICB,1988890003,Kings Dental Centre,155758.9,2200,0,0,0,5
+202412,QHL,Birmingham and Solihull ICB,1990010001,Orthodontics for You (Solihull) Ltd,997257.9,12637,210,0,4,38
+202412,QOP,Greater Manchester ICB,1993460001,Northenden House Orthodontics,155758.9,2200,0,0,0,2
+202412,QH8,Mid and South Essex ICB,1995590003,Parmar Dental,161561.02,2159,2,0,0,6
+202412,QM7,Hertfordshire and West Essex ICB,1997610001,Watford Orthodontics Limited,832200.07,11015,118,0,5,6
+202412,QNX,Sussex ICB,2078960005,MCCANCE LTD.,451814.02,6806,259,0,12,19
+202412,QHM,North East and North Cumbria ICB,2149220001,Durham Family Dental,2679.09,33,0,0,0,0
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,2157080001,Asquith House Dental Practice Partnership,45604.57,575,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,2195760001,MR DJ WHITE,7931.54,100,7,0,0,0
+202412,QOP,Greater Manchester ICB,2197620001,MR SG SPENCER,117403.3,1650,1,0,0,6
+202412,QUA,Black Country ICB,2201240001,Dr Rajesh Kumar Beedh,18556.92,234,0,0,0,0
+202412,QUA,Black Country ICB,2209220001,Crankhall Lane Dental Practice,1742.73,22,3,0,0,0
+202412,QRL,Hampshire and Isle Of Wight ICB,2212520001,East End Lodge Dental Partnership,10390.41,131,0,0,0,0
+202412,QJG,Suffolk and North East Essex ICB,2222240001,Needham Market Dental Partnership,124908.28,1602,23,0,1,1
+202412,QUY,"Bristol, North Somerset and South Gloucestershire ICB",2223990001,Stoke Gifford Dental Surgery,58680.21,753,63,0,3,0
+202412,QJK,Devon ICB,2293420001,MR IJ MILLS,95584.17,1104,126,0,6,5
+202412,QJG,Suffolk and North East Essex ICB,2322460001,MR TI DAVIES,808158.18,10536,552,0,21,22
+202412,QM7,Hertfordshire and West Essex ICB,2327180001,MR A RUMBAK,280372.09,3733,231,0,10,9
+202412,QR1,Gloucestershire ICB,2335440001,MR D LYONS,105222.54,1322,12,0,0,6
+202412,QMJ,North Central London ICB,2341250001,MR NI AMIN,1.23,823,64,0,3,0
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",2359970001,Eastgate House Dental Surgery Partnership,67358.09,837,4,0,1,1
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,2381200001,Riverside Dental Practice Partnership,22282.69,378,42,0,2,0
+202412,QOP,Greater Manchester ICB,2382790001,Bolton Orthodontic Centre Ltd,1146728.07,15541,828,0,36,34
+202412,QOP,Greater Manchester ICB,2396150001,S Mehra & C Brady Partnership,91747.5,1091,0,0,0,0
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",2438680001,Holywell House Orthodontics Limited,990548.97,13238,653,0,29,14
+202412,QWU,Coventry and Warwickshire ICB,2438680006,HOLYWELL HOUSE ORTHODONTICS LIMITED,437553.85,5516,372,0,16,17
+202412,QWU,Coventry and Warwickshire ICB,2438680009,HOLYWELL HOUSE ORTHODONTICS LIMITED,223536.41,2818,29,0,1,3
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",2438680011,Holywell House Orthodontics Limited,202762.16,0,199,0,9,0
+202412,QHL,Birmingham and Solihull ICB,2442280001,Fox and Goose Dental Partnership,16177.82,204,3,0,0,0
+202412,QHM,North East and North Cumbria ICB,2453800001,MR JI SPEDDING,3726.88,176,0,0,0,0
+202412,QH8,Mid and South Essex ICB,2461900001,MR NM SHAH,371669.51,5340,294,0,14,5
+202412,QHL,Birmingham and Solihull ICB,2494320001,C S Practice Services Limited,499115.66,6292,187,0,7,5
+202412,QUA,Black Country ICB,2503330001,MR JS JANDU,79223.76,999,128,0,6,9
+202412,QMF,North East London ICB,2506430001,Align & Smile Ltd,553000.5,6850,273,0,13,29
+202412,QT1,Nottingham and Nottinghamshire ICB,2698910001,Westdale Dental,60976.06,800,0,0,0,2
+202412,QM7,Hertfordshire and West Essex ICB,2711870002,Harlow Dental Surgery,66633.21,889,46,0,2,0
+202412,QWE,South West London ICB,2737400003,MR J PATEL,53140.18,750,0,0,0,0
+202412,QWU,Coventry and Warwickshire ICB,2748950001,Accessible Orthodontics (AD) Ltd,1380801.31,17407,515,0,23,1
+202412,QU9,"Buckinghamshire, Oxfordshire and Berkshire West ICB",2748950002,Accessible Orthodontics (O) Ltd,67126.8,0,0,0,0,3
+202412,QUA,Black Country ICB,3000120003,"Mrs T Malapati, First Dental",169867.17,2142,70,0,2,14
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,3034960002,Edward and Richard Cully,16888.77,208,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,3050570001,Harborne Orthodontics LTD,190651.25,2347,351,0,17,4
+202412,QHL,Birmingham and Solihull ICB,3050570002,Ortho Exclusively Ltd,732744.68,9014,79,0,3,4
+202412,QOP,Greater Manchester ICB,3073510001,MR J BRADY,71476.83,984,63,0,3,0
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",3213890004,Oakham Dental Studio Limited,58245.16,0,8,0,0,0
+202412,QOP,Greater Manchester ICB,3219310003,MR SJ PATEL,182459.15,2300,24,0,1,3
+202412,QHL,Birmingham and Solihull ICB,3257080002,"Balbir S Bhandal, Amrik S Bhandal & Baljit S Bhandal",218329.13,2964,6,0,0,0
+202412,QGH,Herefordshire and Worcestershire ICB,3257080006,"Balbir S Bhandal, Amrik S Bhandal & Baljit S Bhandal",16040.56,203,0,0,0,0
+202412,QUA,Black Country ICB,3257080016,"Balbir S Bhandal, Amrik S Bhandal & Baljit S Bhandal",408116.13,5152,264,0,12,14
+202412,QUA,Black Country ICB,3257080018,"Balbir S Bhandal, Amrik S Bhandal & Baljit S Bhandal",13624.98,172,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,3257080020,MR BS BHANDAL,68193.06,840,5,0,0,1
+202412,QHL,Birmingham and Solihull ICB,3257080031,MR BS BHANDAL,139194.37,1890,0,0,0,0
+202412,QJG,Suffolk and North East Essex ICB,3262750001,Colchester Orthdontic Centre,821986.87,10585,403,0,18,0
+202412,QKS,Kent And Medway ICB,3268520001,Xeon Smiles UK Ltd,724787.74,10918,168,0,8,29
+202412,QHM,North East and North Cumbria ICB,3281460001,MR ND SMITH,49966.15,630,21,0,1,0
+202412,QUA,Black Country ICB,3289440002,Scott Arms Dental Practice,1742.73,22,0,0,0,0
+202412,QMM,Norfolk and Waveney ICB,3291850001,Station Road and Blyburgate Partnership,95870.53,1200,64,0,3,0
+202412,QOP,Greater Manchester ICB,3296220002,Crescent Dental Care,158683.82,2000,5,0,0,0
+202412,QHM,North East and North Cumbria ICB,3297110001,MR S NEPALI,18995.03,250,21,0,1,0
+202412,QKS,Kent And Medway ICB,3307360018,Pennypot Dental Ashford,101126.54,1275,6,0,0,3
+202412,QXU,Surrey Heartlands ICB,3314650002,HINCHLEY WOOD ORTHODONTICS LTD,431500.3,6500,58,0,2,18
+202412,QJ2,Derby and Derbyshire ICB,3318640001,Clarence Road Dental Care Partnership,81146.36,1062,4,0,0,0
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",3334410001,MRS AA SOYOMBO,638962.3,8051,461,0,21,14
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",3339560001,Circus Orthodontic Practice,317428.58,3838,12,0,0,9
+202412,QM7,Hertfordshire and West Essex ICB,3354600001,MR SF ISMAIL,558517.76,7302,143,0,6,17
+202412,QH8,Mid and South Essex ICB,3360840001,Hutton Village Dental Practice Ltd,210583.52,2870,47,0,2,0
+202412,QRL,Hampshire and Isle Of Wight ICB,3383890001,Catherine Tannahill & Rebecca Sadler,627822.54,7915,434,0,20,8
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,3617470001,Village Dental Practice,16972.82,214,0,0,0,0
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",3634560002,Ballard and Tucker Limited,48378.46,600,0,0,0,0
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,5513330001,Ashlow Orthodontics Ltd,517034.17,7357,8,0,0,36
+202412,QMF,North East London ICB,5564590002,Green Street Dental Practice,198622.9,2491,112,0,5,7
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",5642490001,Melton Orthodontics Limited,486947.29,6939,90,0,4,28
+202412,QOP,Greater Manchester ICB,5674420002,Mr P Serrant,75593.42,965,47,0,2,0
+202412,QUY,"Bristol, North Somerset and South Gloucestershire ICB",5680310001,Church Road Dental Practice Partnership,59646.84,743,4,0,0,0
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",5702300002,Market Place Dental Practice,29696.93,380,0,0,0,0
+202412,QJM,Lincolnshire ICB,5734770001,Powell and Associates,17047.54,210,0,0,0,0
+202412,QPM,Northamptonshire ICB,5739490001,Ise Lodge Dental Centre,84780.7,1050,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,5741120001,Mr D Hall,2560.5,33,0,0,0,0
+202412,QKS,Kent And Medway ICB,5743760003,Eustace and Partners,282462.78,3561,7,0,1,14
+202412,QWU,Coventry and Warwickshire ICB,5744220001,Mr R Osman & Mr AH Osman,95532.29,1188,0,0,0,3
+202412,QWU,Coventry and Warwickshire ICB,5744220002,Mr R Osman & Mr AH Osman,132117.37,1672,2,0,0,4
+202412,QMF,North East London ICB,5747320001,Family Dental Practice,22318.88,315,22,0,1,0
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,5748800001,"St Mary's Dental Practice Partnership",93655.03,1462,4,0,0,0
+202412,QM7,Hertfordshire and West Essex ICB,5779870001,MR K SHETH,86749.08,1153,10,0,0,0
+202412,QOQ,Humber and North Yorkshire ICB,6101940001,MISS C DURNING,1.23,1,0,0,0,0
+202412,QUA,Black Country ICB,6197440004,"Dehal, Williams, Kavanagh and Kavanagh",156710.74,1974,1,0,0,7
+202412,QGH,Herefordshire and Worcestershire ICB,6197440006,"Dehal, Williams, Kavangh and Kavanagh",32318.18,409,5,0,0,1
+202412,QM7,Hertfordshire and West Essex ICB,6236280003,Spectrum Associates (London) Limited,128952.95,1709,5,0,0,0
+202412,QE1,Lancashire and South Cumbria ICB,6291540003,Rebecca Sadler and Catherine Tannahill,97350.08,1150,1,0,0,0
+202412,QUA,Black Country ICB,6301790001,Blackheath Dental Practice,31289.96,395,0,0,0,0
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",6312560001,Smiles Orthodontics Limited,854433.17,10776,153,0,7,5
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,6360530001,MR SS NANDHRA,309254.13,4341,0,0,0,15
+202412,QJG,Suffolk and North East Essex ICB,6364440001,MRS LD POULTER,17953.16,232,0,0,0,0
+202412,QUA,Black Country ICB,6386330005,"Balbir S Bhandal, Amrik S Bhandal & Baljit S Bhandal",35692.21,450,3,0,0,0
+202412,QUA,Black Country ICB,6386330011,"Balbir S Bhandal, Amrik S Bhandal & Baljit S Bhandal",41958.18,529,0,0,0,0
+202412,QUA,Black Country ICB,6386330019,"Balbir S Bhandal, Amrik S Bhandal & Baljit S Bhandal",11644.62,147,22,0,1,0
+202412,QUA,Black Country ICB,6386330020,Imperial Dental Group - Cradley Heath,494143.74,6238,55,0,2,3
+202412,QT1,Nottingham and Nottinghamshire ICB,6389000001,Pure Orthodontics,711600.42,8746,124,0,5,12
+202412,QUA,Black Country ICB,6435720002,DR JF ALLSOPP,60270.34,760,0,0,0,0
+202412,QUA,Black Country ICB,6442770001,MR JS NANDHRA,1066032.09,11043,0,0,0,30
+202412,QHL,Birmingham and Solihull ICB,6486390001,Edgbaston Orthodontics Ltd,667192.11,8204,84,0,0,29
+202412,QOQ,Humber and North Yorkshire ICB,6486470001,Dental Design Studio,64.61,1,0,0,0,0
+202412,QUA,Black Country ICB,6487280001,MRS EH ROBERTS,272585.79,3768,26,0,1,12
+202412,QE1,Lancashire and South Cumbria ICB,6492950001,"St George's Dental Partnership",235704.41,2904,0,0,0,0
+202412,QH8,Mid and South Essex ICB,6496940002,Dental Beauty Benfleet Clinic,296471.63,3962,57,0,2,0
+202412,QH8,Mid and South Essex ICB,6496940019,Dental Beauty Benfleet Clinic,0,0,2,0,0,0
+202412,QMF,North East London ICB,6502420001,Dental Solutions Partnership,93101.59,1314,8,0,0,4
+202412,QOP,Greater Manchester ICB,6502930001,MR M KHURANA,989989.62,13983,46,0,2,54
+202412,QOP,Greater Manchester ICB,6502930002,MR M KHURANA,158683.82,2150,44,0,1,1
+202412,QUA,Black Country ICB,6506410001,MRS N SHOJA-ASSADI,310070.93,3862,23,0,1,7
+202412,QM7,Hertfordshire and West Essex ICB,6511840001,MR SJ JACKSON,507913.51,6562,65,0,3,26
+202412,QOC,"Shropshire, Telford and Wrekin ICB",6512300002,PKD Orthodontics,683431.91,8363,308,0,14,34
+202412,QHM,North East and North Cumbria ICB,6533140001,MR JN BUTTERWORTH,27171.36,374,0,0,0,0
+202412,QJ2,Derby and Derbyshire ICB,6538610001,Diamond Court Dental Practice,48576.89,590,1,0,0,1
+202412,QJ2,Derby and Derbyshire ICB,6572470001,MR RV PATEL,519900.92,6920,224,0,8,17
+202412,QUA,Black Country ICB,6584210001,Hayers Dental Surgery,30690.29,387,0,0,0,6
+202412,QHM,North East and North Cumbria ICB,6609570002,The Linden Cottage Partnership,203220.98,2548,10,0,0,10
+202412,QHM,North East and North Cumbria ICB,6614650001,Mr M Pearson & Ms J Russell,1665.55,21,0,0,0,0
+202412,QUA,Black Country ICB,6737490001,MR R KUMAR,16635.19,210,42,0,2,0
+202412,QM7,Hertfordshire and West Essex ICB,6745910001,Rosebank Dental Practice,35765.76,474,0,0,0,0
+202412,QYG,Cheshire and Merseyside ICB,6758570002,MR JW DWYER,886270.04,13500,365,0,16,28
+202412,QE1,Lancashire and South Cumbria ICB,6762090001,MR SL MORGAN,489245.14,6289,2,0,0,2
+202412,QXU,Surrey Heartlands ICB,6772560001,MR GT WYNNE-HUGHES,1060064.86,13141,315,0,12,40
+202412,QF7,South Yorkshire ICB,6775820001,MR NC PATEL,252680.51,3384,22,0,1,12
+202412,QYG,Cheshire and Merseyside ICB,6780150001,Cedar House Orthodontic Practice Limited,942384.65,13500,610,0,28,29
+202412,QOP,Greater Manchester ICB,6792240001,Mr V Singla,42017.25,523,21,0,1,2
+202412,QOP,Greater Manchester ICB,7233120003,Aligned Dental Care Ltd,241507.32,3083,152,0,7,2
+202412,QMM,Norfolk and Waveney ICB,7291590001,MRS AM RAE,54992.25,709,1,0,0,1
+202412,QJ2,Derby and Derbyshire ICB,7293880001,Jonathan P Ward and Associares,37245.45,446,0,0,0,0
+202412,QWU,Coventry and Warwickshire ICB,7320520003,"Balbir S Bhandal, Amrik S Bhandal & Baljit S Bhandal",270477.11,3423,42,0,2,4
+202412,QOQ,Humber and North Yorkshire ICB,7329740001,South Park Dental Practice,61237.08,815,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,7352130002,MR PL MASON,414388.74,5085,236,0,11,6
+202412,QHL,Birmingham and Solihull ICB,7353370001,House of Dental Ltd,732427.77,9034,72,0,3,31
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",7361550001,Marsh Road Dental Practice Partnership,376692.3,6000,162,0,6,10
+202412,QYG,Cheshire and Merseyside ICB,7364220001,Faizan Zaheer & Peter Crockard,1061820.38,4089,0,0,0,0
+202412,QJG,Suffolk and North East Essex ICB,7366190001,MR DB BUCHANAN,90636.32,1261,6,0,0,2
+202412,QHM,North East and North Cumbria ICB,7391700001,Coatham Dental Practice Partnership,8169.06,103,4,0,0,0
+202412,QWU,Coventry and Warwickshire ICB,7401790001,Abbey End Dental Practice,50966.32,645,24,0,1,0
+202412,QRL,Hampshire and Isle Of Wight ICB,7453830001,MR DJ GALE,558786.59,7045,409,0,17,20
+202412,QYG,Cheshire and Merseyside ICB,7455960001,MR JP MEISNER,11459.51,0,0,0,0,0
+202412,QYG,Cheshire and Merseyside ICB,7455960002,MR JP MEISNER,14503.32,0,0,0,0,4
+202412,QT1,Nottingham and Nottinghamshire ICB,7464360002,MR MN BURTON,75357.81,950,0,0,0,0
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",7488970001,Newport Pagnell Dental Limited,694239.81,8736,792,0,36,19
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",7488970002,Teeth In Line Limited,694159.68,9276,31,0,0,37
+202412,QM7,Hertfordshire and West Essex ICB,7503440001,MISS LH PIETERSEN,1204708.59,15976,105,0,5,20
+202412,QYG,Cheshire and Merseyside ICB,7519280001,MISS JR GLEDHILL,752181.86,2990,0,0,0,47
+202412,QPM,Northamptonshire ICB,7536880001,Harlestone Dental Partnership,0,0,1,0,0,0
+202412,QJK,Devon ICB,7625200001,Castle View Dental Practice,103896.34,1310,1,0,0,5
+202412,QM7,Hertfordshire and West Essex ICB,7639500001,Ortho Hemel Limited,526665.73,6984,133,0,6,9
+202412,QHM,North East and North Cumbria ICB,7675140001,MISS KE BOOTH,14395.04,220,0,0,0,0
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,7729920001,MISS C BANKS,20823.66,288,0,0,0,0
+202412,QWE,South West London ICB,7752150010,MR C PATEL,23098.26,326,8,0,0,0
+202412,QUA,Black Country ICB,7769980001,MR DL DALY,304497.78,4130,218,0,10,7
+202412,QOP,Greater Manchester ICB,7835790003,Northwest Orthodontists Ltd,754783.53,10229,275,0,12,10
+202412,QOP,Greater Manchester ICB,7835790005,Northwest Orthodontists Ltd,265331.47,3729,42,0,2,23
+202412,QOP,Greater Manchester ICB,7835790006,Northwest Orthodontists Ltd,327164.58,4621,0,0,0,0
+202412,QHM,North East and North Cumbria ICB,7845400001,JL and VA Gamon,31401.32,375,0,0,0,0
+202412,QWU,Coventry and Warwickshire ICB,7946430002,MR W SIDHU,4029.89,51,0,0,0,0
+202412,QJM,Lincolnshire ICB,7969640002,Appoline Dental Care,57395.93,707,0,0,0,0
+202412,QKS,Kent And Medway ICB,8113190001,Xeon Smiles UK Ltd,774310.7,11664,44,0,1,36
+202412,QRV,North West London ICB,8121960001,Pedro Rodriguez Arteche,12927.07,159,0,0,0,0
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",8126920001,R D Kidy Partnership.,36835.51,467,52,0,2,3
+202412,QOP,Greater Manchester ICB,8135590002,McNally & Bennett Partnership (Bamford Dental Practice),258429.83,3632,0,0,0,7
+202412,QJ2,Derby and Derbyshire ICB,8138420002,Snape Hill Dental Studio and Implant Centre,31175.79,423,3,0,0,0
+202412,QRV,North West London ICB,8139230002,MR JS MANDAIR,37764.95,533,21,0,1,3
+202412,QUY,"Bristol, North Somerset and South Gloucestershire ICB",8139580001,Weston Orthodontic Centre Limited,801331.54,9867,330,0,13,22
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",8191070001,MR JS EVANS,531770.63,6600,17.8,0,0,17
+202412,QR1,Gloucestershire ICB,8200590001,MR AJ SMITH,49573.19,708,0,0,0,0
+202412,QRL,Hampshire and Isle Of Wight ICB,8205630001,East End Lodge Dental Partnership,19272.65,243,23,0,1,0
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,8221670003,Modwena Dental Limited,19325.71,239,0,0,0,0
+202412,QMM,Norfolk and Waveney ICB,8224930001,MR AR HARE,772497.87,10244,178,0,8,29
+202412,QMM,Norfolk and Waveney ICB,8224930002,MR AR HARE,572669.17,7593,184,0,8,17
+202412,QJ2,Derby and Derbyshire ICB,8250500002,MR LS MASTERSON,210914.88,2752,63,0,3,8
+202412,QGH,Herefordshire and Worcestershire ICB,8252120003,Dr Kunal Sirpal,61368.99,730,1,0,0,0
+202412,QH8,Mid and South Essex ICB,8259480008,Wickford Dental Practice and Orthodontic Centre,461448.32,6239,79,0,3,12
+202412,QMM,Norfolk and Waveney ICB,8271340006,MR JG PLUMMER,112490.48,1408,0,0,0,0
+202412,QMM,Norfolk and Waveney ICB,8271340007,MR JG PLUMMER,114248.15,1430,23,0,1,0
+202412,QMM,Norfolk and Waveney ICB,8271340008,MR JG PLUMMER,188908.2,2430,92,0,4,0
+202412,QMM,Norfolk and Waveney ICB,8271340009,MR JG PLUMMER,464885.2,5980,120,0,5,5
+202412,QMM,Norfolk and Waveney ICB,8271340010,MR JG PLUMMER,211360,2750,42,0,2,0
+202412,QMM,Norfolk and Waveney ICB,8271340012,MR JG PLUMMER,164323.99,2090,0,0,0,0
+202412,QMM,Norfolk and Waveney ICB,8271340013,MR JG PLUMMER,164900.8,2064,171,0,7,2
+202412,QMM,Norfolk and Waveney ICB,8271340014,MR JG PLUMMER,31637.27,396,2,0,0,0
+202412,QMM,Norfolk and Waveney ICB,8271340015,MR JG PLUMMER,105434.68,1341,0,0,0,0
+202412,QMM,Norfolk and Waveney ICB,8271340016,MR JG PLUMMER,39946.9,500,11,0,0,0
+202412,QMM,Norfolk and Waveney ICB,8271340019,MR JG PLUMMER,525010.47,6900,134,0,4,7
+202412,QOP,Greater Manchester ICB,8291880001,MR M KHURANA,106199.28,1500,22,0,1,1
+202412,QYG,Cheshire and Merseyside ICB,8291880002,MR WW LEE,744360.69,11475,767,0,37,32
+202412,QUE,Cambridgeshire and Peterborough ICB,8302400001,Cambridge Orthodontic Practice,1136349.38,15536,504,0,24,13
+202412,QHM,North East and North Cumbria ICB,8324720001,"Robert Andrew Michael Davidson, Rebecca Peta Sadler and Cath",32279.46,407,0,0,0,0
+202412,QJ2,Derby and Derbyshire ICB,8335170002,Nair and Nair,61563.93,777,24,0,1,2
+202412,QHL,Birmingham and Solihull ICB,8336570001,Sutton Orthodontic Centre Limited,350806.9,4636,155,0,7,15
+202412,QXU,Surrey Heartlands ICB,8350210002,REDHILL ORTHODONTICS LIMITED,434487.61,6545,421,0,19,16
+202412,QKS,Kent And Medway ICB,8354120001,Total Orthodontics,841160.07,12671,483,0,23,33
+202412,QR1,Gloucestershire ICB,8393290003,MR SJ MCELROY,47697.47,587,3,0,0,2
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,8406100001,MR RK NAHAR,52028.86,656,0,0,0,2
+202412,QOP,Greater Manchester ICB,8406960001,MR MJ KELLY,241225.55,3035,29,0,1,0
+202412,QE1,Lancashire and South Cumbria ICB,8425400003,MISS JS PRASAD,54917.61,692,172,0,8,0
+202412,QM7,Hertfordshire and West Essex ICB,8530380003,MR S WAGNER,361966.97,4800,168,0,8,8
+202412,QOP,Greater Manchester ICB,8574750001,MS M PATEL,584054.49,7916,9,0,0,36
+202412,QJG,Suffolk and North East Essex ICB,8663770001,Ipswich Orthodontic Centre,782243.61,10274,1103,0,52,15
+202412,QM7,Hertfordshire and West Essex ICB,8697320002,"The Specialist Orthodontic Centre, Hertfordshire",78677.21,1085,0,0,0,0
+202412,QWU,Coventry and Warwickshire ICB,8909360002,Leamington Spa Orthodontics Limited,1131167.15,14260,855,0,40,1
+202412,QH8,Mid and South Essex ICB,8909440003,A.F CLOUGH ORTHO LTD,573241.91,7407,99,0,4,36
+202412,QHL,Birmingham and Solihull ICB,9012450001,Mr Amitpal S Jutlla Priory Dental Practice,212.95,3,0,0,0,0
+202412,QOP,Greater Manchester ICB,9073590001,Ms Anastasia Zipa,1,0,0,0,0,0
+202412,QPM,Northamptonshire ICB,9083120001,Priya Sanghvi-Patel,69671.79,871,43,0,2,0
+202412,QWE,South West London ICB,9095480001,MR HS KALSI,9494.38,134,2,0,0,0
+202412,QOP,Greater Manchester ICB,9095800002,P&J Noble Dental Practice,23800.94,293,0,0,0,0
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,9100660001,Mr R Koner,123311.34,1891,63,0,3,0
+202412,QOP,Greater Manchester ICB,9108640001,Dr Abrahem Hussain Malik,32088.1,400,0,0,0,0
+202412,QJG,Suffolk and North East Essex ICB,9133240003,Layer Road Partnership,287384.75,3732,86,0,4,0
+202412,QHL,Birmingham and Solihull ICB,9136180001,Mere Green Dental,76051.65,959,84,0,4,0
+202412,QHM,North East and North Cumbria ICB,9142230001,Dheeraj Chopra,0,0,1,0,0,0
+202412,QK1,"Leicester, Leicestershire and Rutland ICB",9145410001,Melton Orthodontics No2 Ltd,292274.02,4165,63,0,3,0
+202412,QHM,North East and North Cumbria ICB,9147970001,Kushbah Begum,15232.97,200,0,0,0,0
+202412,QJM,Lincolnshire ICB,9149750001,Mr C Sutton and Mr B Koors Lanesman,109264.3,1346,4,0,0,7
+202412,QOQ,Humber and North Yorkshire ICB,9150090001,Manor Dental Health Practice,11928.82,147,0,0,0,0
+202412,QRL,Hampshire and Isle Of Wight ICB,9153940001,Linden Avenue Partnership,21149.44,268,0,0,0,0
+202412,QF7,South Yorkshire ICB,9168890001,MR SG EMMS,45674.54,525,0,0,0,1
+202412,QMJ,North Central London ICB,9170790001,Iconic Smiles Friern Barnet,95864.88,1353,26,0,2,5
+202412,QHG,"Bedfordshire, Luton and Milton Keynes ICB",9171250002,Facial Aesthetic (UK) Ltd,54966.03,693,0,0,0,0
+202412,QOP,Greater Manchester ICB,9191600002,Sadler & Tannahill Partnership,1.23,1564,43,0,2,5
+202412,QNX,Sussex ICB,9230440001,Total Orthodontics,451814.02,6806,359,0,17,11
+202412,QNX,Sussex ICB,9230440004,Total Orthodontics,688940.03,10378,380,0,18,13
+202412,QWU,Coventry and Warwickshire ICB,9259260002,Kreate Dental Rugby,189958.22,2404,22,0,1,6
+202412,QNC,Staffordshire and Stoke-on-Trent ICB,9272010001,Dentaire Ltd,192066.45,2688,66,0,3,26
+202412,QHL,Birmingham and Solihull ICB,9311520001,MR TS MAROK,1586.06,20,0,0,0,0
+202412,QHL,Birmingham and Solihull ICB,9381810001,Hillbrook Dental Health Care,43320.05,587,0,0,0,0
+202412,QVV,Dorset ICB,9399000001,MRS KM ROWLAND,292200.29,3684,67,0,0,11
+202412,QUA,Black Country ICB,9463030001,MR E ACHEAMPONG,50920.7,642,21,0,1,0
+202412,QM7,Hertfordshire and West Essex ICB,9512770001,MS M REINACH,588729.79,7807,46,0,3,33
+202412,QJ2,Derby and Derbyshire ICB,9599010001,Peak Smiles Studio Partnership,262418.47,3233,126,0,6,8
+202412,QGH,Herefordshire and Worcestershire ICB,9721260001,MR SJ SIDDIQUI,479361.62,6006,318,0,14,5
+202412,QOX,"Bath and North East Somerset, Swindon And Wiltshire ICB",9829110001,Ms Sophia Wahla and Mr Mohamed Sadaf Khan,483467.49,7283,170,0,7,14
+202412,QOQ,Humber and North Yorkshire ICB,9993340001,MR EO DUODU,12116.15,154,0,0,0,0

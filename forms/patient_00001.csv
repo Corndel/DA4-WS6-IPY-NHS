@@ -1,0 +1,9 @@
+Case,0
+Patient_ID,00001
+TimeStamp,2012-11-05 19:57:47
+Current_State,Good
+Medication,yes
+Improvement,yes
+Booked,yes
+Current_dose,TwiceDaily
+Current levels,>90

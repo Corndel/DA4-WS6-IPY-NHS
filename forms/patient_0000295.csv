@@ -1,0 +1,9 @@
+Case,3
+Patient_ID,0000295
+TimeStamp,2012-12-11 22:01:12
+Current_State,Average
+Medication,yes
+Improvement,yes
+Booked,yes
+Current_dose,TwiceDaily
+Current levels,15-45
