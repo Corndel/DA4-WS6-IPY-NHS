@@ -1,0 +1,13 @@
+1) SPlit notebook into two
+	- Pandas
+	- Python Extension
+	
+2) Remove data viz with pandas, replace with seaborn, no need to have two methods, comfusing
+
+3) Double check all suitable charts are covered
+
+4) remove .loc and .iloc, not that handy, insert filtering. 
+Plot filtered data
+
+5) need anyting else?
+
